@@ -1,5 +1,5 @@
 # know more about me against your will
-i dont do anything special<br>i barely ever use github<br><br>cantonese ☪️ living in australia, speak русский и 普通话<br>web full stack developer | video editor <br>https://undivisible.dev/
+i dont do anything special<br>i barely ever use github<br><br>cantonese ☪️ living in australia, speak русский и 普通话<br>learning العربية and עִברִית <br>web full stack developer | video editor <br>https://undivisible.dev/
 
 
 ## socials (i dont use these at all but they were an option so now they are here)
