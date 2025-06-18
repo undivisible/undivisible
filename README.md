@@ -5,3 +5,5 @@ i speak cantonese, mandarin, english, russian, indonesian and i study arabic and
 i like photography, videography, cooking, politics, philosophy and religion. <br>
 <br>
 see more @ [undivisible.dev](https://undivisible.dev/)
+
+![hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=6485&api_domain=hackatime.hackclub.com&theme=ambient_gradient&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
