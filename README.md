@@ -7,4 +7,4 @@ i like photography, videography, cooking, politics, philosophy and religion. <br
 see more @ [undivisible.dev](https://undivisible.dev/)
 
 ![hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=6485&api_domain=hackatime.hackclub.com&theme=material-palenight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
--- since start of june 2025
+<br> -- since start of june 2025
