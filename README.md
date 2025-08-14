@@ -1,8 +1,10 @@
-# hello i'm max or abdurrahman
-i'm a cantonese-english muslim living in melbourne, australia, and i make software at [atechnology company](https://atechnology.company/) (its my own not-company company) <br>
-i code in typescript, web languages (svelte, html, css, js), rust, python and c#. <br>
-i speak cantonese, mandarin, english, russian, indonesian and i study arabic and hebrew. <br>
-i like photography, videography, cooking, politics, philosophy and religion. <br>
+# hello i'm max 
+i'm a cantonese-english full stack dev living in melbourne, australia, and i make software at [atechnology company](https://atechnology.company/) (its my own not-company company) <br>
+i'm a systems and product architect @ [gizzmo electronics](https://gizzmoelectronics.com/) <br> 
+<br>
+i use svelte, react, swift, rust, python and c#. <br>
+i speak cantonese, mandarin, english, russian, indonesian and i learn iraqi arabic, hebrew, and chechen. <br>
+i like photography, videography, cooking, finance, politics, philosophy and religion. i follow a religious syncretism of abrahamic religions. <br>
 <br>
 see more @ [undivisible.dev](https://undivisible.dev/)
 
