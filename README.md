@@ -1,5 +1,6 @@
 # hello i'm max 
 i'm a cantonese-english full stack full level dev living in melbourne, australia, and i make [atechnology company](https://atechnology.company/) <br>
+i'm a cofounder @ [graft](https://github.com/graftai-com) <br>
 i'm a systems and product architect @ [gizzmo electronics](https://gizzmoelectronics.com/) <br> 
 <br>
 i like swift, svelte, next, rust, go and v. <br>
