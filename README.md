@@ -7,8 +7,8 @@ i like swift, svelte, next, rust, go and v. <br>
 i speak cantonese, mandarin, english, russian, indonesian and i learn chechen, armenian, iraqi arabic and hebrew. <br>
 i like photography, cooking, finance, politics, philosophy and voyaging the mind. <br>
 <br>
-see more @ [undivisible.dev](https://undivisible.dev/)
-most my work is wip indefinitely because of scope creep but i hope you enjoy the things i make. <br>
+see more @ [undivisible.dev](https://undivisible.dev/) <br>
+most my work is wip indefinitely because of scope creep 🫠 but i hope you enjoy the things i make. <br>
 <br>
 [pava](https://pava.studio) <br>
 experiences and atmosphere coming soon.
