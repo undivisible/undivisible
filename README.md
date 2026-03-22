@@ -8,10 +8,12 @@ i make things for people.
   
 
 ### my livelihood:
+- [arkie](https://arkie.company/)
 - [studio of optimisations (previously graftai.com.au)](https://optimisations.studio)
 - [pava](https://pava.studio)
 - more soon
 
 ### miniapps i made:
+- [unthinkmail](https://unthinkmail.undivisible.dev/)
 - [bublik](https://bublik.undivisible.dev/)
 - [alphabets](https://alphabets.undivisible.dev)
