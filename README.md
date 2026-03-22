@@ -5,13 +5,6 @@ i make things for people.
 ### projects:
 - [atechnology company](https://atechnology.company/)
 - [semitechnological](https://github.com/semitechnological)
-  
-
-### my livelihood:
-- [arkie](https://arkie.company/)
-- [studio of optimisations (previously graftai.com.au)](https://optimisations.studio)
-- [pava](https://pava.studio)
-- more soon
 
 ### miniapps i made:
 - [unthinkmail](https://unthinkmail.undivisible.dev/)
