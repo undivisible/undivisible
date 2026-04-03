@@ -7,6 +7,13 @@ i make things for people.
 - [semitechnological](https://github.com/semitechnological)
 
 ### miniapps i made:
+- [poke around](https://github.com/undivisible/poke-around)
+  - let [poke](https://poke.com) around your computer on any major operating system.
 - [unthinkmail](https://unthinkmail.undivisible.dev/)
+  - mcp your imap supported email
 - [bublik](https://bublik.undivisible.dev/)
+  - canvas to generate your own frequency soundscapes
 - [alphabets](https://alphabets.undivisible.dev)
+  - learn any unicode-supported alphabet through cards, quizzes or a table for completion
+ 
+**see my pinned repositories**
