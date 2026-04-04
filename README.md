@@ -1,5 +1,5 @@
 # hi, i'm [max](https://undivisible.dev/).
-i'm an artificer @ [the software company of hong kong](https://github.com/thesoftwarecompanyofhongkong). <br>
+i'm an artificer @ [the software company of hong kong](https://github.com/tschk). <br>
 i make things for people.
 
 ### projects:
