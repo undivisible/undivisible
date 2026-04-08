@@ -14,6 +14,8 @@ i make things for people.
   - let [poke](https://poke.com) around your computer on any major operating system.
 - [unthinkmail](https://unthinkmail.undivisible.dev/)
   - mcp your imap supported email
+- [drift(wip)](https://github.com/undivisible/drift-wallpaper)
+  - drift - the macos screensaver as a wallpaper on any device from [flux](https://github.com/sandydoo/flux)
 - [bublik](https://bublik.undivisible.dev/)
   - canvas to generate your own frequency soundscapes
 - [alphabets](https://alphabets.undivisible.dev)
