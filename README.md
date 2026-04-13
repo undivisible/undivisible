@@ -20,7 +20,7 @@ i make things for people.
 
 ### miniapps i made:
 - [anywhere](https://github.com/undivisible/anywhere)
-  - anywhere is a web extension built with [crepuscularity's crepuscularity-webext plugin](https://github.com/semitechnological/crepuscularity). the first non js/ts webcode plug and play mv3 web extension framework built with rust (as far as i know of and can search).
+  - anywhere is a web extension built with [crepuscularity's crepuscularity-webext plugin](https://github.com/semitechnological/crepuscularity).
   - it turns your existing chat platforms (claude, chatgpt, grok, gemini and more) into builders, you can build interactive elements straight from the chat by giving it our system prompt. the web extension will pick it up and render it into artifacts.
 - [poke around](https://github.com/undivisible/poke-around)
   - let [poke](https://poke.com) around your computer on any major operating system.
