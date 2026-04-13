@@ -5,6 +5,18 @@ i make things for people.
 ### projects:
 - [atechnology company](https://atechnology.company/)
 - [semitechnological](https://github.com/semitechnological)
+  - [**crepuscularity**](https://crepuscularity.undivisible.dev)
+    - write webcode for everywhere and everything.
+    - use it for gpui, one of the worlds fastest ui frameworks on desktop + write reusable comopnents, have hot reloading.
+    - use it for TUI, on top of ratatui, just write web.
+    - use it for websites.
+    - use it for webextensions, the world's first non web framework plug and play for mv3.
+    - use it for mobile (wip), write web code and rust, go to rust for android and swiftui.
+    - use [crepuscularity lite (wip)](https://github.com/semitechnological/crepuscularity-lite) to drop into any website/electron project and automatically turn it into a gpui desktop app.
+  - [**equilibrium**](https://github.com/semitechnological/equilibrium)
+    - the unified rust ffi framework on top of bindgen + cc for every language with plug and play instant modularisation support for any c-compiling language (C, D, C++, C#, V, Hare, Nim, Odin, Zig). 
+  - [**wax**](https://github.com/semitechnological/wax)
+    - the fastest brew compatible package manager with parallel downloads and installs without conflict, interop with brew and system package managers, as well as winget and choco (wip), built with rust.
 
 ### miniapps i made:
 - [anywhere](https://github.com/undivisible/anywhere)
