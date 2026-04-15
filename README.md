@@ -14,7 +14,8 @@ i make things for people.
     - use it for mobile (wip), write web code and rust, go to rust for android and swiftui.
     - use [crepuscularity lite (wip)](https://github.com/semitechnological/crepuscularity-lite) to drop into any website/electron project and automatically turn it into a gpui desktop app.
   - [**equilibrium**](https://github.com/semitechnological/equilibrium)
-    - the unified rust ffi framework on top of bindgen + cc for every language with plug and play instant modularisation support for any c-compiling language (C, D, C++, C#, V, Hare, Nim, Odin, Zig). 
+    - the unified rust ffi framework on top of bindgen + cc for every language with plug and play instant modularisation support for any c-compiling language (C, D, C++, C#, V, Hare, Nim, Odin, Zig) in two lines.
+    - use [eqswift](https://github.com/semitechnological/eqswift) to natively call rust as an xcframework from your swift projects in two lines.
   - [**wax**](https://github.com/semitechnological/wax)
     - the fastest brew compatible package manager with parallel downloads and installs without conflict, interop with brew and system package managers, as well as winget and choco (wip), built with rust.
 
