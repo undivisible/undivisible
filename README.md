@@ -4,6 +4,8 @@ i make things for people.
 
 ### projects:
 - [atechnology company](https://atechnology.company/)
+  - soliloquy
+    - is an immutable operating system based on a modified version of alpine + servo + v8 built from the ground up for web
 - [semitechnological](https://github.com/semitechnological)
   - [**crepuscularity**](https://crepuscularity.undivisible.dev)
     - write webcode for everywhere and everything.
