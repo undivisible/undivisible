@@ -8,6 +8,8 @@ i make things for people.
     - is an immutable operating system based on a modified version of alpine + servo + v8 built from the ground up for web
   - experiences
     - is a project to make the spatial web more accessible based off of unity wasm
+  - atmosphere
+    - apple style native syncing and ecosystem on every device, or/and to a local homelab
 - [semitechnological](https://github.com/semitechnological)
   - [**crepuscularity**](https://crepuscularity.undivisible.dev)
     - write webcode for everywhere and everything.
