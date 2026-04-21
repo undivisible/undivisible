@@ -1,7 +1,6 @@
 # hi, i'm max
 _[undivisible.dev](https://undivisible.dev/)_ <br>
-i make things for people.
-
+i make things for people. <br>
 i build systems, runtimes, interfaces, developer tools, and small pieces of software that feel inevitable.
 
 ## projects
