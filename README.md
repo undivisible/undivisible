@@ -1,63 +1,62 @@
-# Hi, I'm Max Carter
+# hi, i'm max
 _[undivisible.dev](https://undivisible.dev/)_ <br>
-I build software, systems, and tools for people. 
-I work across operating systems, interfaces, developer tooling, sync systems, and web-native runtimes.
+i make things for people.
 
-## Projects
+i build systems, runtimes, interfaces, developer tools, and small pieces of software that feel inevitable.
 
-### [atechnology company](https://atechnology.company/)
+## projects
 
-#### Soliloquy
-An immutable operating system for the web, built from the ground up on a modified Alpine base with Servo and V8.
+### [a technology company](https://atechnology.company/)
 
-#### Experiences
-A project focused on making the spatial web more accessible, built on top of Unity WASM.
+#### soliloquy
+an immutable operating system for the web, built from a modified alpine base with servo and v8.
 
-#### Atmosphere
-A native sync and ecosystem layer for every device — Apple-style, but open to local-first setups and homelabs too.
+#### experiences
+a project exploring a more accessible spatial web, built on unity wasm.
+
+#### atmosphere
+a native sync and ecosystem layer for every device, with support for local-first setups and homelabs.
 
 ### [semitechnological](https://github.com/semitechnological)
 
-#### [Crepuscularity](https://crepuscularity.undivisible.dev)
-Write web code for everywhere.
+#### [crepuscularity](https://crepuscularity.undivisible.dev)
+write web code for everywhere.
 
-Crepuscularity lets you:
-- build desktop apps with GPUI using reusable components and hot reload
-- build TUIs on top of Ratatui, using the same web-style approach
-- build websites
-- build browser extensions, including MV3, with a plug-and-play non-web framework workflow
-- target mobile with web code and Rust, bridging into Rust for Android and SwiftUI
+crepuscularity is a framework for building:
+- desktop apps with gpui
+- tuis on top of ratatui
+- websites
+- browser extensions
+- mobile experiences with web code and rust
 
-Also see [crepuscularity-lite](https://github.com/semitechnological/crepuscularity-lite), a WIP drop-in layer for turning existing websites and Electron projects into GPUI desktop apps.
+see also [crepuscularity lite](https://github.com/semitechnological/crepuscularity-lite), a wip layer for turning existing websites and electron projects into gpui desktop apps.
 
-#### [Equilibrium](https://github.com/semitechnological/equilibrium)
-A unified Rust FFI framework built on top of bindgen and cc.
+#### [equilibrium](https://github.com/semitechnological/equilibrium)
+a unified rust ffi framework built on top of bindgen and cc.
 
-It makes modular cross-language interop much simpler for C-compiling languages, including C, C++, C#, D, V, Hare, Nim, Odin, and Zig.
+it simplifies modular cross-language interop for c-compiling languages, including c, c++, c#, d, v, hare, nim, odin, and zig.
 
-For Swift, see [eqswift](https://github.com/semitechnological/eqswift), which lets Swift projects call Rust natively as an XCFramework.
+for swift, see [eqswift](https://github.com/semitechnological/eqswift).
 
-#### [Wax](https://github.com/semitechnological/wax)
-A fast, Brew-compatible package manager built in Rust, with parallel downloads and installs, conflict-aware behavior, and interoperability with Brew and system package managers. Winget and Chocolatey support are in progress.
+#### [wax](https://github.com/semitechnological/wax)
+a fast brew-compatible package manager built in rust, with parallel downloads and installs, conflict-aware behaviour, and interoperability with brew and system package managers.
 
-## Mini-apps
+## miniapps
 
-### [Anywhere](https://github.com/undivisible/anywhere)
-A browser extension built with Crepuscularity’s web extension plugin.
+### [anywhere](https://github.com/undivisible/anywhere)
+a browser extension that turns existing chat platforms into builders by rendering interactive artifacts from prompts.
 
-It turns existing chat platforms into builders: give the model a system prompt, and the extension picks up interactive elements and renders them as artifacts.
+### [poke around](https://github.com/undivisible/poke-around)
+lets [poke](https://poke.com) interact with your computer across major operating systems.
 
-### [Poke Around](https://github.com/undivisible/poke-around)
-Lets [Poke](https://poke.com) interact with your computer across major operating systems.
+### [unthinkmail](https://unthinkmail.undivisible.dev/)
+mcp for imap-supported email.
 
-### [Unthinkmail](https://unthinkmail.undivisible.dev/)
-MCP for IMAP-supported email.
+### [drift](https://github.com/undivisible/drift-wallpaper)
+the macos drift screensaver as a wallpaper across devices, based on [flux](https://github.com/sandydoo/flux), with spotify now playing support.
 
-### [Drift](https://github.com/undivisible/drift-wallpaper)
-A port of the macOS Drift screensaver into a wallpaper that works across devices, based on [Flux](https://github.com/sandydoo/flux), with Spotify now-playing support.
+### [bublik](https://bublik.undivisible.dev/)
+a canvas tool for generating custom frequency soundscapes.
 
-### [Bublik](https://bublik.undivisible.dev/)
-A canvas-based tool for generating custom frequency soundscapes.
-
-### [Alphabets](https://alphabets.undivisible.dev)
-Learn any Unicode-supported alphabet through cards, quizzes, and completion tables.
+### [alphabets](https://alphabets.undivisible.dev)
+learn any unicode-supported alphabet through cards, quizzes, and completion tables.
