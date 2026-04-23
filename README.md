@@ -5,7 +5,7 @@ i build systems, runtimes, interfaces, developer tools, and small pieces of soft
 
 ## projects
 
-### [a technology company](https://atechnology.company/)
+### [atechnology company](https://atechnology.company/)
 
 #### soliloquy
 an immutable operating system for the web, built from a modified alpine base with servo and v8.
