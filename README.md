@@ -29,7 +29,7 @@ crepuscularity is a framework for building:
 - websites
 - browser extensions
 - mobile experiences with web code and rust
-- with [crepuscularity lite](https://github.com/semitechnological/crepuscularity-lite) and aurorality-js, you can bundle js/ts into your existing websites and webapps to connect your native frontend to js backend.
+- with crepuscularity lite and aurorality-js, you can bundle js/ts into your existing websites and webapps to connect your native frontend to js backend.
 
 #### [equilibrium](https://github.com/semitechnological/equilibrium)
 a unified rust ffi framework built on top of bindgen and cc.
