@@ -47,7 +47,7 @@ in progress ai powered ottocomplete anywhere on your mac
 #### rover (wip)
 a set of utilities and plugin system for your mac, based on raycast.
 
-#### [tile, wip](https://github.com/semitechnological/tile)
+#### [tile (wip)](https://github.com/semitechnological/tile)
 mosaic type tiling window manager + canvas + multiplexer for macos.
 
 ## miniapps
