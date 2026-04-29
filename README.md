@@ -41,13 +41,13 @@ for swift, see [eqswift](https://github.com/semitechnological/eqswift).
 #### [wax](https://github.com/semitechnological/wax)
 a fast brew-compatible package manager built in rust, with parallel downloads and installs, conflict-aware behaviour, and interoperability with brew and system package managers.
 
-### otto (wip)
+#### otto (wip)
 in progress ai powered ottocomplete anywhere on your mac
 
-### rover (wip)
+#### rover (wip)
 a set of utilities and plugin system for your mac, based on raycast.
 
-### [tile, wip](https://github.com/semitechnological/tile)
+#### [tile, wip](https://github.com/semitechnological/tile)
 mosaic type tiling window manager + canvas + multiplexer for macos.
 
 ## miniapps
