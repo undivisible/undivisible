@@ -40,7 +40,7 @@ equilibrium auto-detects source files across c-compiling languages, builds them 
 for rust into swift, see [eqswift](https://github.com/semitechnological/eqswift).
 
 #### [stalwart lite](https://github.com/tschk/stalwart-lite)
-a lightweight fork of stalwart for unthought.
+a lightweight fork of stalwart to work as a crate.
 the main build removes the bundled web admin, while the lite branch cuts the server down to standard mail: imap for clients, smtp for delivery and submission, with the management api still available.
 
 #### [wax](https://github.com/semitechnological/wax)
