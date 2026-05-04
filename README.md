@@ -9,7 +9,7 @@ i build systems, runtimes, interfaces, developer tools, and small pieces of soft
 
 #### soliloquy
 an immutable operating system for the web, built from a modified alpine base with servo and v8.
-- plates is a WIP ai asstant built on top of soliloquy and rv8 to sync your browser state everywhere, it uses ai agents to dynamically show you what's relevant in your life and in your activities.
+- plates is a WIP ai assistant built on top of soliloquy and rv8 to sync your browser state everywhere, it uses ai agents to dynamically show you what's relevant in your life and in your activities.
 
 #### experiences
 a project exploring a more accessible spatial web, built on unity wasm.
@@ -33,17 +33,20 @@ crepuscularity is a framework for building:
 - **solely by writing react + tailwindcss type code and a js/ts or rust backend**
 
 #### [equilibrium](https://github.com/semitechnological/equilibrium)
-a unified rust ffi framework built on top of bindgen and cc.
+load foreign code into rust with one call.
 
-it simplifies modular cross-language interop for c-compiling languages, including c, c++, c#, d, v, hare, nim, odin, and zig.
+equilibrium auto-detects source files across c-compiling languages, builds them through a c-compatible path, and gives rust a usable module handle. bindings are there when you need them, but load() is the main path.
 
 for rust into swift, see [eqswift](https://github.com/semitechnological/eqswift).
 
 #### [stalwart lite](https://github.com/tschk/stalwart-lite)
-stalwart as an in process rust crate, and ultralight with only imap support 
+a lightweight fork of stalwart for unthought.
+the main build removes the bundled web admin, while the lite branch cuts the server down to standard mail: imap for clients, smtp for delivery and submission, with the management api still available.
 
 #### [wax](https://github.com/semitechnological/wax)
-a fast brew-compatible package manager built in rust, with parallel downloads and installs, conflict-aware behaviour, and interoperability with brew and system package managers.
+a fast homebrew-compatible package manager in rust.
+wax uses homebrew’s formulae, bottles, casks, and json api, but skips the ruby/git overhead with a compiled async binary, fast search, parallel installs, lockfiles, and clean homebrew interoperability.
+wax also can integrate (in alpha) with other package managers like winget and scoop, and linux package managers with nix type behaviour.
 
 #### otto (wip)
 in progress ai powered ottocomplete anywhere on your mac
@@ -57,7 +60,7 @@ mosaic type tiling window manager + canvas + multiplexer for macos.
 ## miniapps
 
 ### [anywhere](https://github.com/undivisible/anywhere)
-a browser extension that turns existing chat platforms into builders by rendering interactive artifacts from prompts.
+a browser extension that lets ai chats render interactive widgets, panels, forms, charts, and visualisations from special response tags. built with crepuscularity's web extensions framework for writing mv3 webextensions in rust.
 
 ### [poke around](https://github.com/undivisible/poke-around)
 lets [poke](https://poke.com) interact with your computer across major operating systems.
@@ -66,13 +69,13 @@ lets [poke](https://poke.com) interact with your computer across major operating
 mcp for imap-supported email.
 
 ### [drift](https://github.com/undivisible/drift-wallpaper)
-the macos drift screensaver as a wallpaper across linux macos and windows, based on [flux](https://github.com/sandydoo/flux), with spotify and apple music now playing support.
+the macos drift screensaver as a wallpaper across linux macos and windows, based on [flux](https://github.com/sandydoo/flux), with spotify and apple music now playing support. built with crepuscularity for fast hardware accelerated ui.
 
 ### [unelaborate](https://github.com/undivisible/unelaborate)
 a minecraft client built with native swiftui, with feather type modrinth connections for modpack, shader and resource pack loading directly in client, share, import and export your mods and instances.
 
 ### [notes](https://notes.undivisible.dev/)
-a minimal note websites based from the now-defunct zen.unit.ms. write notes, and they will be there when you come back.
+a minimal note websites based from the now-defunct zen.unit.ms. write notes, and they will be there when you come back, with complete google font and notion type markdown editing.
 
 ### [bublik](https://bublik.undivisible.dev/)
 a canvas tool for generating custom frequency soundscapes.
