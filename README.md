@@ -8,8 +8,8 @@ i build systems, runtimes, interfaces, developer tools, and small pieces of soft
 ### [atechnology company](https://atechnology.company/)
 
 #### soliloquy
-an immutable operating system for the web, built from a modified alpine base with servo and v8.
-- plates is a WIP ai assistant built on top of soliloquy and rv8 to sync your browser state everywhere, it uses ai agents to dynamically show you what's relevant in your life and in your activities.
+an experimental operating system model for the web — immutable, browser-native, and built on a modified alpine base with servo and v8.
+it hosts plates, a WIP agentic ai assistant for every device, native to the web and keeps you in touch with whats important.
 
 #### experiences
 a project exploring a more accessible spatial web, built on unity wasm.
@@ -20,7 +20,7 @@ a native sync and ecosystem layer for every device, with support for local-first
 ### [semitechnological](https://github.com/semitechnological)
 
 #### [crepuscularity](https://crepuscularity.undivisible.dev)
-write web code for everywhere.
+a framework for building cross-platform applications from a single web-based codebase.
 
 crepuscularity is a framework for building:
 - desktop apps with gpui
@@ -33,20 +33,21 @@ crepuscularity is a framework for building:
 - **solely by writing react + tailwindcss type code and a js/ts or rust backend**
 
 #### [equilibrium](https://github.com/semitechnological/equilibrium)
-load foreign code into rust with one call.
-
-equilibrium auto-detects source files across c-compiling languages, builds them through a c-compatible path, and gives rust a usable module handle. bindings are there when you need them, but load() is the main path.
+load code from c-compiling languages into rust with one call.
+equilibrium auto-detects source files, compiles them through a c-compatible path, and exposes them as usable rust modules. bindings exist when needed, but `load()` is the primary path.
 
 for rust into swift, see [eqswift](https://github.com/semitechnological/eqswift).
 
 #### [stalwart lite](https://github.com/tschk/stalwart-lite)
-a lightweight fork of stalwart to work as a crate.
-the main build removes the bundled web admin, while the lite branch cuts the server down to standard mail: imap for clients, smtp for delivery and submission, with the management api still available.
+a lightweight fork of stalwart designed to run in-process as a rust crate.
+the main build removes the bundled web admin, while the lite branch reduces the server to core mail functionality: imap for clients, smtp for delivery and submission, with the management api still available.
+built for embedding, local-first setups, and environments where running a full mail server stack is unnecessary.
 
 #### [wax](https://github.com/semitechnological/wax)
 a fast homebrew-compatible package manager in rust.
-wax uses homebrew’s formulae, bottles, casks, and json api, but skips the ruby/git overhead with a compiled async binary, fast search, parallel installs, lockfiles, and clean homebrew interoperability.
-wax also can integrate (in alpha) with other package managers like winget and scoop, and linux package managers with nix type behaviour.
+uses homebrew’s ecosystem (formulae, bottles, casks, api) without the ruby/git overhead — compiled, async, parallel installs, with lockfiles and clean interoperability.
+experimental support for other package managers (winget, scoop, linux) with nix-like behaviour.
+
 
 #### otto (wip)
 in progress ai powered ottocomplete anywhere on your mac
@@ -60,7 +61,9 @@ mosaic type tiling window manager + canvas + multiplexer for macos.
 ## miniapps
 
 ### [anywhere](https://github.com/undivisible/anywhere)
-a browser extension that lets ai chats render interactive widgets, panels, forms, charts, and visualisations from special response tags. built with crepuscularity's web extensions framework for writing mv3 webextensions in rust.
+a browser extension that turns ai chat responses into interactive interfaces.
+renders widgets, panels, forms, charts, and tools directly inside chat using custom response tags.
+built with crepuscularity’s rust-based mv3 extension framework.
 
 ### [poke around](https://github.com/undivisible/poke-around)
 lets [poke](https://poke.com) interact with your computer across major operating systems.
@@ -75,7 +78,7 @@ the macos drift screensaver as a wallpaper across linux macos and windows, based
 a minecraft client built with native swiftui, with feather type modrinth connections for modpack, shader and resource pack loading directly in client, share, import and export your mods and instances.
 
 ### [notes](https://notes.undivisible.dev/)
-a minimal note websites based from the now-defunct zen.unit.ms. write notes, and they will be there when you come back, with complete google font and notion type markdown editing.
+a minimal note taker based from the now-defunct zen.unit.ms. write notes, and they will be there when you come back, with complete google font and notion type markdown editing.
 
 ### [bublik](https://bublik.undivisible.dev/)
 a canvas tool for generating custom frequency soundscapes.
