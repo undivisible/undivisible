@@ -25,18 +25,22 @@ write web code for everywhere.
 crepuscularity is a framework for building:
 - desktop apps with gpui
 - [aurorality](https://github.com/semitechnological/aurorality) to turn your web frontends into swiftui, write swift, javascript/typescript, or rust as your backend.
-- tuis on top of ratatui
+- tuis on top of ratatui in an opentui style
 - websites
 - browser extensions
-- mobile experiences with web code and rust
+- mobile experiences built on top of jetpack compose and swiftui
 - with crepuscularity lite and aurorality-js, you can bundle js/ts into your existing websites and webapps to connect your native frontend to js backend.
+- **solely by writing react + tailwindcss type code and a js/ts or rust backend**
 
 #### [equilibrium](https://github.com/semitechnological/equilibrium)
 a unified rust ffi framework built on top of bindgen and cc.
 
 it simplifies modular cross-language interop for c-compiling languages, including c, c++, c#, d, v, hare, nim, odin, and zig.
 
-for swift, see [eqswift](https://github.com/semitechnological/eqswift).
+for rust into swift, see [eqswift](https://github.com/semitechnological/eqswift).
+
+#### [stalwart lite](https://github.com/tschk/stalwart-lite)
+stalwart as an in process rust crate, and ultralight with only imap support 
 
 #### [wax](https://github.com/semitechnological/wax)
 a fast brew-compatible package manager built in rust, with parallel downloads and installs, conflict-aware behaviour, and interoperability with brew and system package managers.
@@ -62,7 +66,7 @@ lets [poke](https://poke.com) interact with your computer across major operating
 mcp for imap-supported email.
 
 ### [drift](https://github.com/undivisible/drift-wallpaper)
-the macos drift screensaver as a wallpaper across devices, based on [flux](https://github.com/sandydoo/flux), with spotify now playing support.
+the macos drift screensaver as a wallpaper across linux macos and windows, based on [flux](https://github.com/sandydoo/flux), with spotify and apple music now playing support.
 
 ### [unelaborate](https://github.com/undivisible/unelaborate)
 a minecraft client built with native swiftui, with feather type modrinth connections for modpack, shader and resource pack loading directly in client, share, import and export your mods and instances.
