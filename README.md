@@ -1,6 +1,7 @@
 # hi, i'm max
 _[undivisible.dev](https://undivisible.dev/)_ <br>
 i make things for people. <br>
+part-time language learner, part-time philosopher, full-time schemer. <br>
 i build systems, runtimes, interfaces, developer tools, and small pieces of software that feel inevitable.
 
 ## projects
@@ -19,7 +20,7 @@ a native sync and ecosystem layer for every device, with support for local-first
 
 ### [semitechnological](https://github.com/semitechnological)
 
-#### [crepuscularity](https://crepuscularity.undivisible.dev)
+### [crepuscularity](https://crepuscularity.undivisible.dev)
 a framework for building cross-platform applications from a single web-based codebase.
 
 crepuscularity is a framework for building:
@@ -48,7 +49,7 @@ a fast homebrew-compatible package manager in rust.
 uses homebrew’s ecosystem (formulae, bottles, casks, api) without the ruby/git overhead — compiled, async, parallel installs, with lockfiles and clean interoperability.
 experimental support for other package managers (winget, scoop, linux) with nix-like behaviour.
 
-
+<span style="color:#999">
 #### otto (wip)
 in progress ai powered ottocomplete anywhere on your mac
 
@@ -58,6 +59,7 @@ a set of utilities and plugin system for your mac, based on raycast.
 #### [tile (wip)](https://github.com/semitechnological/tile)
 mosaic type tiling window manager + canvas + multiplexer for macos.
 
+<br><br><br>
 ## miniapps
 
 ### [anywhere](https://github.com/undivisible/anywhere)
@@ -85,3 +87,4 @@ a canvas tool for generating custom frequency soundscapes.
 
 ### [alphabets](https://alphabets.undivisible.dev)
 learn any unicode-supported alphabet through cards, quizzes, and completion tables.
+</span>
