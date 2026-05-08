@@ -36,8 +36,8 @@ an experimental operating system model for the web — immutable, browser-native
 
 - **[stalwart lite](https://github.com/tschk/stalwart-lite)** — stalwart fork that runs in-process as a rust crate. imap, smtp, management api — no web admin, no overhead. built for embedding and local-first setups.
 - **[tile (wip)](https://github.com/semitechnological/tile)** — mosaic-style tiling window manager + canvas + multiplexer for macos.
-- **otto (wip)** — ai-powered autocomplete anywhere on your mac.
-- **rover (wip)** — utilities and plugin system for mac, based on raycast.
+- **otto (wip)** — ai-powered ottocomplete anywhere on your mac.
+- **rover (wip)** — utilities and plugin system for mac, based on raycast + ghostty.
 
 ***
 
