@@ -44,13 +44,13 @@ an experimental operating system model for the web — immutable, browser-native
 ## miniapps
 
 - **[standpoint](https://standpoint.undivisible.dev)** - the ultimate opinion based platform for sharing tierlists, voting on polls, and playing spectrum - a party game to guess on a spectrum based on a prompt.
-- **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** - openclaw but <1/100 of the size, with a better ux (subjectively), with speed and with the ability to deploy agent swarms. 
 - **[unthinkmail](https://unthinkmail.undivisible.dev/)** — mcp for imap-supported email.
 - **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
 - **[notes](https://notes.undivisible.dev/)** — minimal note taker with google font and notion-style markdown editing.
 - **[bublik](https://bublik.undivisible.dev/)** — canvas tool for generating custom frequency soundscapes.
 - **[alphabets](https://alphabets.undivisible.dev)** — learn any unicode-supported alphabet through cards, quizzes, and completion tables.
-- **[anywhere](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags.
+- **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** - openclaw but <1/100 of the size, with a better ux (subjectively), with speed and with the ability to deploy agent swarms.
 - **[poke around](https://github.com/undivisible/poke-around)** — lets [poke](https://poke.com) interact with your computer across major oses.
+- **[anywhere](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags.
 - **[unelaborate](https://github.com/undivisible/unelaborate)** — minecraft client in native swiftui with modrinth modpack, shader, and resource pack loading.
 
