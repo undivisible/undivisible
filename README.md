@@ -23,7 +23,7 @@ crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile
 
 ### [soliloquy](https://github.com/atechnology-company/soliloquy)
 
-an experimental operating system model for the web — immutable, browser-native, built on a modified alpine base with servo and v8. hosts **plates**, a wip agentic ai assistant for every device, native to the web.
+an experimental operating system model for the web — immutable, browser-native, built on a modified alpine base with servo and v8. hosts **plates**, a wip agentic ecosystemic ai assistant for every device, native to the web, but using a hybrid of local and online models.
 
 ### other
 
