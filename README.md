@@ -43,7 +43,7 @@ an experimental operating system model for the web — immutable, browser-native
 
 ## [rs_ai](https://github.com/undivisible/rs_ai)
 
-rust ai sdk for building across cloud and local providers with one async-first api. supports anthropic, openai/chatgpt, gemini, xai, cloudflare workers ai, openai-compatible endpoints, streaming, and on-device runtimes through `rs_ai_local` — including gemini nano on android, foundationmodels on macos, and phi silica on windows and `rs_ai_browser` for new browser prompt apis like Phi Silica through Microsoft Edge and Gemini Nano through Google Chrome.
+rust ai sdk for building across cloud and local providers with one async-first api. supports anthropic, openai/chatgpt, gemini, xai, cloudflare workers ai, openai-compatible endpoints, streaming, and on-device runtimes through `rs_ai_local` — including gemini nano on android, foundationmodels on macos, and phi silica on windows.
 
 ## miniapps
 
