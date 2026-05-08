@@ -44,6 +44,7 @@ an experimental operating system model for the web — immutable, browser-native
 ## miniapps
 
 - **[standpoint](https://standpoint.undivisible.dev)** - the ultimate opinion based platform for sharing tierlists, voting on polls, and playing spectrum - a party game to guess on a spectrum based on a prompt.
+- **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** - openclaw but <1/100 of the size, with a better ux (subjectively), with speed and with the ability to deploy agent swarms. 
 - **[unthinkmail](https://unthinkmail.undivisible.dev/)** — mcp for imap-supported email.
 - **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
 - **[notes](https://notes.undivisible.dev/)** — minimal note taker with google font and notion-style markdown editing.
