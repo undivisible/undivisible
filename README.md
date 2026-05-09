@@ -14,7 +14,7 @@ crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile
 
 ### subprojects
 
-- **[inauguration](https://github.com/semitechnological/inauguration)** - an ultrafast swift developer toolchain with incremental compiler experimentation, sil analysis, and low-latency swiftui hot reload.
+- **[inauguration](https://github.com/semitechnological/inauguration)** - an ultrafast general OOL compiler with incremental compiler experimentation, sil analysis, and low-latency hot reloading.
 - **[equilibrium](https://github.com/semitechnological/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/semitechnological/eqswift).
 - **[wax](https://github.com/semitechnological/wax)** — fast homebrew-compatible package manager in rust. uses homebrew's ecosystem (formulae, bottles, casks) without the ruby/git overhead — compiled, async, parallel installs, lockfiles, and experimental winget/scoop/nix-like support.
 
