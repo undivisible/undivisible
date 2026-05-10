@@ -51,6 +51,7 @@ rust ai sdk for building across cloud and local providers with one async-first a
 - **[standpoint](https://standpoint.undivisible.dev)** - the ultimate opinion based platform for sharing tierlists, voting on polls, and playing spectrum - a party game to guess on a spectrum based on a prompt.
 - **[unthinkmail](https://unthinkmail.undivisible.dev/)** — mcp for imap-supported email.
 - **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
+- **[vro](https://github.com/undivisible/vro)** - minimal micro inspired text editor written in v.
 - **[notes](https://notes.undivisible.dev/)** — minimal note taker with google font and notion-style markdown editing.
 - **[bublik](https://bublik.undivisible.dev/)** — canvas tool for generating custom frequency soundscapes.
 - **[alphabets](https://alphabets.undivisible.dev)** — learn any unicode-supported alphabet through cards, quizzes, and completion tables.
