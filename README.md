@@ -22,7 +22,7 @@ crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile
 
 ## [atechnology company](https://atechnology.company/)
 
-### [soliloquy](https://github.com/atechnology-company/soliloquy)
+## [soliloquy](https://github.com/atechnology-company/soliloquy)
 
 an experimental operating system model for the web — immutable, browser-native, built on a modified alpine base with servo and v8. hosts **plates**, a wip agentic ecosystemic ai assistant for every device, native to the web, but using a hybrid of local and online models.
 
@@ -63,4 +63,4 @@ an experimental operating system model for the web — immutable, browser-native
 - **[ark-protocol](https://github.com/tschk/ark-protocol)**
   - open protocol and reference implementation for exposing many local VPS services behind one standardized HTTPS/WebSocket ingress. defines a manifest-based routing layer, adapter APIs, and Cloudflare-compatible edge integration for multiplexing internal ports through a single public endpoint.
 - **[rs_ai](https://github.com/undivisible/rs_ai)**
-  - rust ai sdk for building across cloud and local providers with one async-first api. supports anthropic, openai/chatgpt, gemini, xai, cloudflare workers ai, openai-compatible endpoints, streaming, and on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
+  - rust ai sdk for building across cloud and local providers with one async-first api with on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
