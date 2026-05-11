@@ -14,7 +14,7 @@ crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile
 
 ### subprojects
 
-- **[inauguration](https://github.com/semitechnological/inauguration)** - an ultrafast general OOL compiler with incremental compiler experimentation, sil analysis, and low-latency hot reloading.
+- **[inauguration](https://github.com/semitechnological/inauguration)** - an experimental multi-frontend compiler/runtime platform targeting Core IR, SIL analysis, hot reload, and ultrafast incremental workflows.
 - **[equilibrium](https://github.com/semitechnological/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/semitechnological/eqswift).
 - **[wax](https://github.com/semitechnological/wax)** — fast homebrew-compatible package manager in rust. uses homebrew's ecosystem (formulae, bottles, casks) without the ruby/git overhead — compiled, async, parallel installs, lockfiles, and experimental winget/scoop/nix-like support.
 
@@ -60,5 +60,6 @@ an experimental operating system model for the web — immutable, browser-native
 ## libraries and other stuff
 - **[stalwart lite](https://github.com/tschk/stalwart-lite)** — stalwart fork that runs in-process as a rust crate. imap, smtp, management api — no web admin, no overhead. built for embedding and local-first setups.
 - **[crosspost-rs](https://github.com/tschk/crosspost-rs)** - a rust crossposting library for multiple social media platforms
-### [rs_ai](https://github.com/undivisible/rs_ai)
-rust ai sdk for building across cloud and local providers with one async-first api. supports anthropic, openai/chatgpt, gemini, xai, cloudflare workers ai, openai-compatible endpoints, streaming, and on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
+- **[ark-protocol](https://github.com/tschk/ark-protocol)** — open protocol and reference implementation for exposing many local VPS services behind one standardized HTTPS/WebSocket ingress. defines a manifest-based routing layer, adapter APIs, and Cloudflare-compatible edge integration for multiplexing internal ports through a single public endpoint.
+- **[rs_ai](https://github.com/undivisible/rs_ai)**
+  - rust ai sdk for building across cloud and local providers with one async-first api. supports anthropic, openai/chatgpt, gemini, xai, cloudflare workers ai, openai-compatible endpoints, streaming, and on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
