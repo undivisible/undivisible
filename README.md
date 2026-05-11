@@ -60,6 +60,7 @@ an experimental operating system model for the web — immutable, browser-native
 ## libraries and other stuff
 - **[stalwart lite](https://github.com/tschk/stalwart-lite)** — stalwart fork that runs in-process as a rust crate. imap, smtp, management api — no web admin, no overhead. built for embedding and local-first setups.
 - **[crosspost-rs](https://github.com/tschk/crosspost-rs)** - a rust crossposting library for multiple social media platforms
-- **[ark-protocol](https://github.com/tschk/ark-protocol)** — open protocol and reference implementation for exposing many local VPS services behind one standardized HTTPS/WebSocket ingress. defines a manifest-based routing layer, adapter APIs, and Cloudflare-compatible edge integration for multiplexing internal ports through a single public endpoint.
+- **[ark-protocol](https://github.com/tschk/ark-protocol)**
+  - open protocol and reference implementation for exposing many local VPS services behind one standardized HTTPS/WebSocket ingress. defines a manifest-based routing layer, adapter APIs, and Cloudflare-compatible edge integration for multiplexing internal ports through a single public endpoint.
 - **[rs_ai](https://github.com/undivisible/rs_ai)**
   - rust ai sdk for building across cloud and local providers with one async-first api. supports anthropic, openai/chatgpt, gemini, xai, cloudflare workers ai, openai-compatible endpoints, streaming, and on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
