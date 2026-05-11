@@ -35,16 +35,13 @@ an experimental operating system model for the web — immutable, browser-native
 
 ## [semitechnological](https://github.com/semitechnological)
 
-- **[stalwart lite](https://github.com/tschk/stalwart-lite)** — stalwart fork that runs in-process as a rust crate. imap, smtp, management api — no web admin, no overhead. built for embedding and local-first setups.
 - **[tile (wip)](https://github.com/semitechnological/tile)** — mosaic-style tiling window manager + canvas + multiplexer for macos.
 - **otto (wip)** — ai-powered ottocomplete anywhere on your mac.
 - **rover (wip)** — utilities and plugin system for mac, based on raycast + ghostty.
 
 ***
 
-## [rs_ai](https://github.com/undivisible/rs_ai)
 
-rust ai sdk for building across cloud and local providers with one async-first api. supports anthropic, openai/chatgpt, gemini, xai, cloudflare workers ai, openai-compatible endpoints, streaming, and on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
 
 ## miniapps
 
@@ -60,3 +57,8 @@ rust ai sdk for building across cloud and local providers with one async-first a
 - **[anywhere](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags.
 - **[unelaborate](https://github.com/undivisible/unelaborate)** — minecraft client in native swiftui with modrinth modpack, shader, and resource pack loading.
 
+## libraries and other stuff
+- **[stalwart lite](https://github.com/tschk/stalwart-lite)** — stalwart fork that runs in-process as a rust crate. imap, smtp, management api — no web admin, no overhead. built for embedding and local-first setups.
+- **[crosspost-rs](https://github.com/tschk/crosspost-rs)** - a rust crossposting library for multiple social media platforms
+### [rs_ai](https://github.com/undivisible/rs_ai)
+rust ai sdk for building across cloud and local providers with one async-first api. supports anthropic, openai/chatgpt, gemini, xai, cloudflare workers ai, openai-compatible endpoints, streaming, and on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
