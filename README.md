@@ -18,6 +18,8 @@ crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile
 - **[equilibrium](https://github.com/tschk/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/semitechnological/eqswift).
 - **[wax](https://github.com/semitechnological/wax)** — fast homebrew-compatible package manager in rust. uses homebrew's ecosystem (formulae, bottles, casks) without the ruby/git overhead — compiled, async, parallel installs, lockfiles, and experimental winget/scoop/nix-like support.
 
+***
+
 ## [soliloquy](https://github.com/tschk/soliloquy)
 
 an experimental operating system model for the web — immutable, browser-native, built on a modified alpine base.
@@ -40,7 +42,8 @@ it uses rv8, a custom browser engine built with servo and v8.
 
 ***
 
-## websites
+## miniapps
+
 - **[standpoint](https://standpoint.undivisible.dev)** - the ultimate opinion based platform for sharing tierlists, voting on polls, and playing spectrum - a party game to guess on a spectrum based on a prompt.
 - **[unthinkmail](https://unthinkmail.undivisible.dev/)** — mcp for imap-supported email.
 - **[notes](https://notes.undivisible.dev/)** — minimal note taker with full google font support, code highlighting and editing and notion-style markdown editing.
@@ -48,8 +51,6 @@ it uses rv8, a custom browser engine built with servo and v8.
 - **[alphabets](https://alphabets.undivisible.dev)** — learn any unicode-supported alphabet through cards, quizzes, and completion tables.
 - **[infrastruct](https://infrastruct.undivisible.dev)** - belief agnostic jurisprudence local ai search engine platform with searx & ddg, transformers.js and browser prompt api.
 - **[akh (archived)](https://akh.undivisible.dev)** - islamic uniplatform for when i was previously interested in islam.
-
-## programs
 - **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
 - **[vro](https://github.com/undivisible/vro)** - minimal micro inspired text editor written in v.
 - **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** - openclaw but <1/100 of the size, with a better ux (subjectively), with speed and with the ability to deploy agent swarms.
@@ -59,7 +60,8 @@ it uses rv8, a custom browser engine built with servo and v8.
 - **[unelaborate (wip)](https://github.com/undivisible/unelaborate)** — minecraft client in native swiftui with modrinth modpack, shader, and resource pack loading.
 - **[anywhere (wip)](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags.
 
-## libraries and other stuff
+## libraries
+
 - **[rs_ai](https://github.com/undivisible/rs_ai)** - rust ai sdk for building across cloud and local providers with one async-first api with on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
 - **[rs_imessage](https://github.com/undivisible/rs_imessage)** - rust imessage crate and cli
 - **[rs_facetime](https://github.com/undivisible/rs_facetime)** - rust facetime crate and cli
