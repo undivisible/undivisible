@@ -46,7 +46,7 @@ it uses rv8, a custom browser engine built with servo and v8.
 - **[notes](https://notes.undivisible.dev/)** — minimal note taker with full google font support, code highlighting and editing and notion-style markdown editing.
 - **[bublik](https://bublik.undivisible.dev/)** — canvas tool for generating custom frequency soundscapes.
 - **[alphabets](https://alphabets.undivisible.dev)** — learn any unicode-supported alphabet through cards, quizzes, and completion tables.
-- **[infrastruct](https://infrastruct.undivisible.dev)** - belief agnostic jurisprudence local ai search engine platform with searx, transformers.js and browser prompt api.
+- **[infrastruct](https://infrastruct.undivisible.dev)** - belief agnostic jurisprudence local ai search engine platform with searx & ddg, transformers.js and browser prompt api.
 - **[akh (archived)](https://akh.undivisible.dev)** - islamic uniplatform for when i was previously interested in islam.
 
 ## programs
