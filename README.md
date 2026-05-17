@@ -60,11 +60,10 @@ it uses rv8, a custom browser engine built with servo and v8.
 - **[anywhere (wip)](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags.
 
 ## libraries and other stuff
+- **[rs_ai](https://github.com/undivisible/rs_ai)** - rust ai sdk for building across cloud and local providers with one async-first api with on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
 - **[rs_imessage](https://github.com/undivisible/rs_imessage)** - rust imessage crate and cli
 - **[rs_facetime](https://github.com/undivisible/rs_facetime)** - rust facetime crate and cli
 - **[stalwart lite](https://github.com/arkiecompany/stalwart-lite)** — stalwart fork that runs in-process as a rust crate. imap, smtp, management api — no web admin, no overhead. built for embedding and local-first setups.
 - **[crosspost-rs](https://github.com/arkiecompany/crosspost-rs)** - a rust crossposting library for multiple social media platforms
-- **[ark-protocol](https://github.com/tschk/ark-protocol)**
-  - open protocol and reference implementation for exposing many local VPS services behind one standardized HTTPS/WebSocket ingress. defines a manifest-based routing layer, adapter APIs, and Cloudflare-compatible edge integration for multiplexing internal ports through a single public endpoint.
-- **[rs_ai](https://github.com/undivisible/rs_ai)**
-  - rust ai sdk for building across cloud and local providers with one async-first api with on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
+- **[ark-protocol](https://github.com/tschk/ark-protocol)** - open protocol and reference implementation for exposing many local VPS services behind one standardized HTTPS/WebSocket ingress. defines a manifest-based routing layer, adapter APIs, and Cloudflare-compatible edge integration for multiplexing internal ports through a single public endpoint.
+- **[monoprotocol](https://github.com/atechnology-company/monoprotocol)** — Normative draft sync protocol: wire format, crypto (HKDF, AES-256-GCM), replicated object model, journals, capabilities; Rust reference crate on crates.io with golden conformance vectors (JSON/CBOR). *Built with: Rust, Markdown spec, conformance fixtures.*
