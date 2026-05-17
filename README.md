@@ -56,8 +56,8 @@ it uses rv8, a custom browser engine built with servo and v8.
 - **[anywhere](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags.
 
 ## libraries and other stuff
-- **[rs_imessage](https://github.com/undivisible/rs_imessage)** - rust imessage crate
-- **[rs_facetime](https://github.com/undivisible/rs_facetime))** - rust facetime crate
+- **[rs_imessage](https://github.com/undivisible/rs_imessage)** - rust imessage crate and cli
+- **[rs_facetime](https://github.com/undivisible/rs_facetime))** - rust facetime crate and cli
 - **[stalwart lite](https://github.com/arkiecompany/stalwart-lite)** — stalwart fork that runs in-process as a rust crate. imap, smtp, management api — no web admin, no overhead. built for embedding and local-first setups.
 - **[crosspost-rs](https://github.com/arkiecompany/crosspost-rs)** - a rust crossposting library for multiple social media platforms
 - **[ark-protocol](https://github.com/tschk/ark-protocol)**
