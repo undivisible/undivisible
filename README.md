@@ -54,8 +54,10 @@ it uses rv8, a custom browser engine built with servo and v8.
 - **[vro](https://github.com/undivisible/vro)** - minimal micro inspired text editor written in v.
 - **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** - openclaw but <1/100 of the size, with a better ux (subjectively), with speed and with the ability to deploy agent swarms.
 - **[poke around](https://github.com/undivisible/poke-around)** — lets [poke](https://poke.com) interact with your computer across major oses.
-- **[unelaborate](https://github.com/undivisible/unelaborate)** — minecraft client in native swiftui with modrinth modpack, shader, and resource pack loading.
-- **[anywhere](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags.
+- **[ycyestim](https://github.com/undivisible/YCYEStim)** — ios controller for ycy yokonex gen 1 and 2 electrostimulation hardware over btle (optional user-owned http/websocket bridge); dual-channel waveforms, presets and programs, safety limits, healthkit and watchos heart-rate adaptive output.
+- **[bluetooth terminal](https://github.com/undivisible/bluetooth-terminal)** - random bluetooth terminal i made
+- **[unelaborate (wip)](https://github.com/undivisible/unelaborate)** — minecraft client in native swiftui with modrinth modpack, shader, and resource pack loading.
+- **[anywhere (wip)](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags.
 
 ## libraries and other stuff
 - **[rs_imessage](https://github.com/undivisible/rs_imessage)** - rust imessage crate and cli
