@@ -44,8 +44,6 @@ it uses rv8, a custom browser engine built with servo and v8.
 
 ## miniapps
 
-## miniapps
-
 ### web apps
 - **[standpoint](https://standpoint.undivisible.dev)** — the ultimate opinion based platform for sharing tierlists, voting on polls, and playing spectrum - a party game to guess on a spectrum based on a prompt.
 - **[notes](https://notes.undivisible.dev/)** — minimal note taker with full google font support, code highlighting and editing and notion-style markdown editing.
