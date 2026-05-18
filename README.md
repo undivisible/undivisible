@@ -44,15 +44,16 @@ it uses rv8, a custom browser engine built with servo and v8.
 
 ## miniapps
 
-- **[standpoint](https://standpoint.undivisible.dev)** - the ultimate opinion based platform for sharing tierlists, voting on polls, and playing spectrum - a party game to guess on a spectrum based on a prompt.
+- **[rs_vimium](https://github.com/undivisible/rs_vimium)** — a rust rewrite of the [vimium](https://github.com/philc/vimium) browser extension built with [crepuscularity webextension framework](https://github.com/tschk/crepuscularity).
+- **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
+- **[vro](https://github.com/undivisible/vro)** - minimal micro inspired text editor written in v.
 - **[unthinkmail](https://unthinkmail.undivisible.dev/)** — mcp for imap-supported email.
+- **[standpoint](https://standpoint.undivisible.dev)** - the ultimate opinion based platform for sharing tierlists, voting on polls, and playing spectrum - a party game to guess on a spectrum based on a prompt.
 - **[notes](https://notes.undivisible.dev/)** — minimal note taker with full google font support, code highlighting and editing and notion-style markdown editing.
 - **[bublik](https://bublik.undivisible.dev/)** — canvas tool for generating custom frequency soundscapes.
 - **[alphabets](https://alphabets.undivisible.dev)** — learn any unicode-supported alphabet through cards, quizzes, and completion tables.
 - **[infrastruct](https://infrastruct.undivisible.dev)** - belief agnostic jurisprudence local ai search engine platform with searx & ddg, transformers.js and browser prompt api.
 - **[akh (archived)](https://akh.undivisible.dev)** - islamic uniplatform for when i was previously interested in islam.
-- **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
-- **[vro](https://github.com/undivisible/vro)** - minimal micro inspired text editor written in v.
 - **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** - openclaw but <1/100 of the size, with a better ux (subjectively), with speed and with the ability to deploy agent swarms.
 - **[poke around](https://github.com/undivisible/poke-around)** — lets [poke](https://poke.com) interact with your computer across major oses.
 - **[ycyestim](https://github.com/undivisible/YCYEStim)** — ios controller for ycy yokonex gen 1 and 2 electrostimulation hardware over btle (optional user-owned http/websocket bridge); dual-channel waveforms, presets and programs, safety limits, healthkit and watchos heart-rate adaptive output.
