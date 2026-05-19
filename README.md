@@ -59,8 +59,8 @@ it uses rv8, a custom browser engine built with servo and v8.
 - **[bluetooth terminal](https://github.com/undivisible/bluetooth-terminal)** — random bluetooth terminal i made
 
 ### browser extensions
-- **[rs_vimium](https://github.com/undivisible/rs_vimium)** — a rust rewrite of the [vimium](https://github.com/philc/vimium) browser extension built with [crepuscularity webextension framework](https://github.com/tschk/crepuscularity).
-- **[anywhere (wip)](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags.
+- **[rs_vimium](https://github.com/undivisible/rs_vimium)** — a rust rewrite of the [vimium](https://github.com/philc/vimium) browser extension built with the [crepuscularity webextension framework](https://github.com/tschk/crepuscularity).
+- **[anywhere (wip)](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags, also built with the [crepuscularity webextension framework](https://github.com/tschk/crepuscularity).
 
 ### mobile & desktop
 - **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
