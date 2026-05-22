@@ -1,8 +1,7 @@
 # hi, i'm max &nbsp;_[undivisible.dev](https://undivisible.dev/)_
 
 i make things for people.  
-part-time language learner, part-time philosopher, full-time schemer.  
-i build systems, runtimes, interfaces, developer tools, and small pieces of software that feel inevitable.
+i build systems, runtimes, interfaces, developer tools, and small pieces of software that feel inevitable since the age of 8.
 
 ***
 
