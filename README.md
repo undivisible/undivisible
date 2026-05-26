@@ -36,7 +36,7 @@ it uses rv8, a custom browser engine built with servo and v8.
 ## [semitechnological](https://github.com/semitechnological)
 
 - **[tile (wip)](https://github.com/semitechnological/tile)** — mosaic-style tiling window manager + canvas + multiplexer for macos.
-- **tabyrus (wip)** — ai-powered autocomplete anywhere on your mac. uses [cotabby](https://github.com/fujacob/cotabby) as a reference but uses a rust backend + mlx.
+- **[tabyrus (wip)](https://github.com/semitechnological/tabyrus** — ai-powered autocomplete anywhere on your mac. uses [cotabby](https://github.com/fujacob/cotabby) as a reference but uses a rust backend + mlx.
 - **rover (wip)** — utilities and plugin system for mac, based on raycast + ghostty.
 
 ***
