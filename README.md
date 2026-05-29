@@ -13,7 +13,7 @@ crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile
 
 ### subprojects
 
-- **[inauguration](https://github.com/tschk/inauguration)** - an experimental multi-frontend compiler/runtime platform targeting Core IR, SIL analysis, hot reload, and ultrafast incremental workflows.
+- **inauguration** - an ultra-fast, general-purpose compiler pipeline for multiple languages designed around explicit capability management and deterministic execution graphs. it features a native language (inlang) that supports two synchronized syntaxes—a strict, explicit form ideal for tooling, agents, and deterministic builds, and a lightweight, human-friendly form optimized for readability.
 - **[equilibrium](https://github.com/tschk/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/semitechnological/eqswift).
 - **[wax](https://github.com/semitechnological/wax)** — fast homebrew-compatible package manager in rust. uses homebrew's ecosystem (formulae, bottles, casks) without the ruby/git overhead — compiled, async, parallel installs, lockfiles, and experimental winget/scoop/nix-like support.
 
@@ -26,18 +26,21 @@ an experimental operating system model for the web — immutable, browser-native
 ### [rv8](https://github.com/tschk/rv8)
 it uses rv8, a custom browser engine built with servo and v8.
 
+### space
+is a work in progress ground-up nanokernel built on top of inauguration.
+
 ### other
 
-- **experiences** — a project exploring a more accessible spatial web, built on unity wasm.
+- **experiences (shelved)** — a project exploring a more accessible spatial web, built on unity wasm.
 - **atmosphere** — a native sync and ecosystem layer for every device, with local-first and homelab support.
 
 ***
 
 ## [semitechnological](https://github.com/semitechnological)
 
-- **[tile (wip)](https://github.com/semitechnological/tile)** — mosaic-style tiling window manager + canvas + multiplexer for macos.
+- **[tile (shelved)](https://github.com/semitechnological/tile)** — mosaic-style tiling window manager + canvas + multiplexer for macos.
 - **[tabyrus (wip)](https://github.com/semitechnological/tabyrus)** — ai-powered autocomplete anywhere on your mac. uses [cotabby](https://github.com/fujacob/cotabby) as a reference but uses a rust backend + mlx.
-- **rover (wip)** — utilities and plugin system for mac, based on raycast + ghostty.
+- **rover (shelved)** — utilities and plugin system for mac, based on raycast + ghostty.
 
 ***
 
@@ -59,13 +62,13 @@ it uses rv8, a custom browser engine built with servo and v8.
 
 ### browser extensions
 - **[rs_vimium](https://github.com/undivisible/rs_vimium)** — a rust rewrite of the [vimium](https://github.com/philc/vimium) browser extension built with the [crepuscularity webextension framework](https://github.com/tschk/crepuscularity).
-- **[anywhere (wip)](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags, also built with the [crepuscularity webextension framework](https://github.com/tschk/crepuscularity).
+- **[anywhere](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags, also built with the [crepuscularity webextension framework](https://github.com/tschk/crepuscularity).
 
 ### mobile & desktop
 - **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
 - **[vro](https://github.com/undivisible/vro)** — minimal micro inspired text editor written in v.
 - **[ycyestim](https://github.com/undivisible/YCYEStim)** — ios controller for ycy yokonex gen 1 and 2 electrostimulation hardware over btle (optional user-owned http/websocket bridge); dual-channel waveforms, presets and programs, safety limits, healthkit and watchos heart-rate adaptive output.
-- **[unelaborate (wip)](https://github.com/undivisible/unelaborate)** — minecraft client in native swiftui with modrinth modpack, shader, and resource pack loading.
+- **[unelaborate (shelved)](https://github.com/undivisible/unelaborate)** — minecraft client in native swiftui with modrinth modpack, shader, and resource pack loading.
 
 ## libraries
 
