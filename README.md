@@ -57,8 +57,9 @@ is a work in progress ground-up nanokernel built on top of inauguration.
 
 ### developer tools
 - **[unthinkmail](https://unthinkmail.undivisible.dev/)** — mcp for imap-supported email.
-- **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** — openclaw but <1/100 of the size, with a better ux (subjectively), with speed and with the ability to deploy agent swarms.
+- **[folk around](https://github.com/undivisible/folk-around)** - lets [folk](https://getfolk.app) or any hermes agent or openclaw interact with your computer p2p on macos.
 - **[poke around](https://github.com/undivisible/poke-around)** — lets [poke](https://poke.com) interact with your computer across major oses.
+- **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** — openclaw but <1/100 of the size, with a better ux (subjectively), with speed and with the ability to deploy agent swarms.
 - **[bluetooth terminal](https://github.com/undivisible/bluetooth-terminal)** — random bluetooth terminal i made
 
 ### browser extensions
