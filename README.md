@@ -1,7 +1,7 @@
 # hi, i'm max &nbsp;_[undivisible.dev](https://undivisible.dev/)_
 
 i make things for people.  
-i build systems, runtimes, interfaces, developer tools, and small pieces of software that feel inevitable since the age of 8.
+i build systems, runtimes, interfaces, developer tools, and small pieces of software that feel inevitable since the age of 8. <br><br>
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=6485&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ***
