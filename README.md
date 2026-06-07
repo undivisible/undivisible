@@ -75,6 +75,7 @@ is a work in progress ground-up nanokernel built on top of inauguration.
 ## libraries
 
 - **[rs_ai](https://github.com/undivisible/rs_ai)** - rust ai sdk for building across cloud and local providers with one async-first api with on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
+- **[rs_poke](https://github.com/undivisible/rs_poke)** - [poke by interaction's](https://poke.com) sdk in rust.
 - **[rs_peekaboo](https://github.com/undivisible/rs_peekaboo)** - peter steinberger's [peekaboo](https://github.com/steipete/peekaboo) rewritten in rust with a shell tool and usable as a crate library for embedding into applications.
 - **[rs_imessage](https://github.com/undivisible/rs_imessage)** - rust imessage crate and cli
 - **[rs_facetime](https://github.com/undivisible/rs_facetime)** - rust facetime crate and cli
