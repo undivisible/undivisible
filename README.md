@@ -2,7 +2,6 @@
 
 i make things for people.  
 i build systems, runtimes, interfaces, developer tools, and small pieces of software that feel inevitable since the age of 8. <br><br>
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=6485&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ***
 
@@ -10,11 +9,11 @@ i build systems, runtimes, interfaces, developer tools, and small pieces of soft
 
 > a framework for building cross-platform applications from a single web-based codebase — solely by writing react + tailwindcss and a js/ts or rust backend.
 
-crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile, tuis on ratatui, websites, embedded with a custom framebuffer or lvgl and browser extensions. [aurorality](https://github.com/semitechnological/aurorality) turns web frontends into native swiftui for macos and ios, accepting swift, js/ts, or rust as your backend. with crepuscularity lite and aurorality-js, you can drop into existing sites to connect native frontends to js backends.
+crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile, tuis on ratatui, websites, embedded with a custom framebuffer or lvgl and browser extensions. [aurorality](https://github.com/semitechnological/aurorality) turns web frontends into native swiftui for macos and ios, accepting swift, js/ts, or rust as your backend. with crepuscularity lite and aurorality-js, you can drop into existing sites or electron apps to connect native frontends to js backends.
 
 ### subprojects
 
-- **[inauguration (wip)](https://github.com/tschk/inauguration)** - an ultra-fast, general-purpose compiler pipeline for multiple languages designed around explicit capability management and deterministic execution graphs. it features a native language (inlang) that supports two synchronized syntaxes—a strict, explicit form ideal for tooling, agents, and deterministic builds, and a lightweight, human-friendly form optimized for readability.
+- **[inauguration](https://github.com/tschk/inauguration)** - an ultra-fast, general-purpose compiler pipeline for multiple languages designed around explicit capability management and deterministic execution graphs. it features a native language (inlang) that supports two synchronized syntaxes—a strict, explicit form ideal for tooling, agents, and deterministic builds, and a lightweight, human-friendly form optimized for readability.
 - **[equilibrium](https://github.com/tschk/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/semitechnological/eqswift).
 - **[wax](https://github.com/tschk/wax)** — fast homebrew-compatible package manager in rust. uses homebrew's ecosystem (formulae, bottles, casks) without the ruby/git overhead — compiled, async, parallel installs, lockfiles, and experimental winget/scoop/nix-like support.
 - **[oil](https://github.com/semitechnological/oil)** – fast system package manager in rust for all major *nix systems based on wax with linuxbrew support and interop with existing package managers.
@@ -23,29 +22,21 @@ crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile
 
 ## [soliloquy](https://github.com/tschk/soliloquy)
 
-an experimental operating system model for the web — immutable, browser-native, built on a modified alpine base.
+an experimental operating system model for the web — immutable, browser-native, built on alpenglow + rv8.
 
 ### [rv8](https://github.com/tschk/rv8)
-it uses rv8, a custom browser engine built with servo and v8.
+a custom browser engine built with servo and v8 with in house optimisations.
 
 ### [alpenglow](https://github.com/tschk/alpenglow)
-also using my distro of linux based on [chimera](https://chimera-linux.org), [void](https://voidlinux.org) and [oasis](https://github.com/oasislinux/oasis). 
+is my distro of linux based on [chimera](https://chimera-linux.org), [void](https://voidlinux.org), [alpine](https://alpinelinux.org) and [oasis](https://github.com/oasislinux/oasis). the minimal build smaller than an image taken on a modern day phone, standard is smaller than a 50MP image, boots in 1 second and runs completely in RAM and ships with my own custom package manager oil, which has been lightened for this operating system. there is a work in progress desktop environment – [alpenglowed](https://github.com/tschk/alpenglowed) built on top of wayland to render the entire desktop environment in crepuscular gpui.
 
 ### space
-is a work in progress ground-up nanokernel built on top of inauguration.
+is a work in progress (it boots!) ground-up nanokernel built on top of inauguration.
 
 ### other
 
 - **experiences (shelved)** — a project exploring a more accessible spatial web, built on unity wasm.
 - **atmosphere** — a native sync and ecosystem layer for every device, with local-first and homelab support.
-
-***
-
-## [semitechnological](https://github.com/semitechnological)
-
-- **[tile (shelved)](https://github.com/semitechnological/tile)** — mosaic-style tiling window manager + canvas + multiplexer for macos.
-- **[tabyrus (wip)](https://github.com/semitechnological/tabyrus)** — ai-powered autocomplete anywhere on your mac. uses [cotabby](https://github.com/fujacob/cotabby) as a reference but uses a rust backend + mlx.
-- **rover (shelved)** — utilities and plugin system for mac, based on raycast + ghostty.
 
 ***
 
@@ -77,6 +68,9 @@ is a work in progress ground-up nanokernel built on top of inauguration.
 - **[vro](https://github.com/undivisible/vro)** — minimal micro inspired text editor written in v.
 - **[ycyestim](https://github.com/undivisible/YCYEStim)** — ios controller for ycy yokonex gen 1 and 2 electrostimulation hardware over btle (optional user-owned http/websocket bridge); dual-channel waveforms, presets and programs, safety limits, healthkit and watchos heart-rate adaptive output.
 - **[unelaborate (shelved)](https://github.com/undivisible/unelaborate)** — minecraft client in native swiftui with modrinth modpack, shader, and resource pack loading.
+- **[tile (shelved)](https://github.com/semitechnological/tile)** — mosaic-style tiling window manager + canvas + multiplexer for macos.
+- **[tabyrus (wip)](https://github.com/semitechnological/tabyrus)** — ai-powered autocomplete anywhere on your mac. uses [cotabby](https://github.com/fujacob/cotabby) as a reference but uses a rust backend + mlx.
+- **rover (shelved)** — utilities and plugin system for mac, based on raycast + ghostty.
 
 ## libraries
 
@@ -87,8 +81,8 @@ is a work in progress ground-up nanokernel built on top of inauguration.
 - **[rs_facetime](https://github.com/undivisible/rs_facetime)** - rust facetime crate and cli
 - **[stalwart lite](https://github.com/arkiecompany/stalwart-lite)** — stalwart fork that runs in-process as a rust crate. imap, smtp, management api — no web admin, no overhead. built for embedding and local-first setups.
 - **[crosspost-rs](https://github.com/arkiecompany/crosspost-rs)** - a rust crossposting library for multiple social media platforms
+- **[svelte-streamdown](https://github.com/undivisible/svelte-streamdown)** - a svelte version of [vercel's streamdown](https://github.com/vercel/streamdown) for streamable markdown rendering with interactive codeblocks and math rendering.
 - **[ark-protocol](https://github.com/tschk/ark-protocol)** - open protocol and reference implementation for exposing many local vps services behind one standardized https/websocket ingress. defines a manifest-based routing layer, adapter apis, and cloudflare-compatible edge integration for multiplexing internal ports through a single public endpoint.
 - **[monoprotocol](https://github.com/atechnology-company/monoprotocol)** — normative draft sync protocol: wire format, crypto (hkdf, aes256gcm), replicated object model, journals, capabilities; rust reference crate on crates.io with golden conformance vectors (json/cbor).
-- **[svelte-streamdown](https://github.com/undivisible/svelte-streamdown)** - a svelte version of [vercel's streamdown](https://github.com/vercel/streamdown) for streamable markdown rendering with interactive codeblocks and math rendering.
 
 and yes im scared of uppercase letters
