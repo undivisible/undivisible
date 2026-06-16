@@ -1,4 +1,4 @@
-# hi, i'm max &nbsp;_[undivisible.dev](https://undivisible.dev/)_
+# hi, i'm max &nbsp;_[undivisible.dev](https://undivisible.dev/) [tsc.hk](https://tsc.hk)_
 
 i make things for people.  
 i build systems, runtimes, interfaces, developer tools, and small pieces of software that feel inevitable since the age of 8. <br><br>
@@ -30,8 +30,8 @@ a custom browser engine built with servo and v8 with in house optimisations.
 ### [alpenglow](https://github.com/tschk/alpenglow)
 is my distro of linux based on [chimera](https://chimera-linux.org), [void](https://voidlinux.org), [alpine](https://alpinelinux.org) and [oasis](https://github.com/oasislinux/oasis). the minimal build smaller than an image taken on a modern day phone, standard is smaller than a 50MP image, boots in under a second and runs completely in RAM and ships with my own custom package manager oil, which has been lightened for this operating system. there is a work in progress desktop environment – [alpenglowed](https://github.com/tschk/alpenglowed) built on top of wayland to render the entire desktop environment in crepuscular gpui.
 
-### space
-is a work in progress (it boots!) ground-up nanokernel built on top of inauguration.
+### [space](https://github.com/tschk/space)
+is a work in progress (it boots!) ground-up operating system built on top of inauguration. it focuses on having seperate services as distributed components, with the compiler natively sandboxing based on authority scheduling capabilities permissions etc.
 
 ### other
 
