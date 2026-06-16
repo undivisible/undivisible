@@ -20,7 +20,7 @@ crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile
 
 ***
 
-## [soliloquy](https://github.com/tschk/soliloquy)
+### [soliloquy](https://github.com/tschk/soliloquy)
 
 an experimental operating system model for the web — immutable, browser-native, built on alpenglow + rv8.
 
