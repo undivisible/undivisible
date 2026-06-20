@@ -52,7 +52,7 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 
 ### developer tools
 - **[incisor](https://github.com/undivisible/incisor)** - a rust + crepuscularity rewrite of balenaetcher to flash os images to sd cards and usbs
-- **[rs_opencodedesktop](https://github.com/semitechnological/rs_opencodedesktop)** - a (wip) rust + crepuscularity rewrite of [opencode desktop](https://github.com/anomalyco/opencode) that actually runs at 120fps.
+- **[rs_opencodedesktop (shelved for now, repo private)](https://github.com/semitechnological/rs_opencodedesktop)** - a (wip) rust + crepuscularity rewrite of [opencode desktop](https://github.com/anomalyco/opencode) that actually runs at 120fps.
 - **[bluetooth terminal](https://github.com/undivisible/bluetooth-terminal)** — random bluetooth terminal i made
 
 ### browser extensions
@@ -77,10 +77,11 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 - **[rs_ai](https://github.com/undivisible/rs_ai)** - rust ai sdk for building across cloud and local providers with one async-first api with on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
 - **[rs_poke](https://github.com/undivisible/rs_poke)** - [poke by interaction's](https://poke.com) sdk in rust.
 - **[rs_peekaboo](https://github.com/undivisible/rs_peekaboo)** - peter steinberger's [peekaboo](https://github.com/steipete/peekaboo) rewritten in rust with a shell tool and usable as a crate library for embedding into applications.
-- **[rs_imessage](https://github.com/undivisible/rs_imessage)** - rust imessage crate and cli
-- **[rs_facetime](https://github.com/undivisible/rs_facetime)** - rust facetime crate and cli
+- **[rs_gbrain](https://github.com/undivisible/rs_gbrain)** - [garry tan's gbrain](https://github.com/garrytan/gbrain) for openclaw rewritten in rust.
+- **[rs_imessage](https://github.com/undivisible/rs_imessage)** - rust imessage crate and cli.
+- **[rs_facetime](https://github.com/undivisible/rs_facetime)** - rust facetime crate and cli.
 - **[stalwart lite](https://github.com/arkiecompany/stalwart-lite)** — stalwart fork that runs in-process as a rust crate. imap, smtp, management api — no web admin, no overhead. built for embedding and local-first setups.
-- **[crosspost-rs](https://github.com/arkiecompany/crosspost-rs)** - a rust crossposting library for multiple social media platforms
+- **[crosspost-rs](https://github.com/arkiecompany/crosspost-rs)** - a rust crossposting library for multiple social media platforms.
 - **[svelte-streamdown](https://github.com/undivisible/svelte-streamdown)** - a svelte version of [vercel's streamdown](https://github.com/vercel/streamdown) for streamable markdown rendering with interactive codeblocks and math rendering.
 - **[ark-protocol](https://github.com/tschk/ark-protocol)** - open protocol and reference implementation for exposing many local vps services behind one standardized https/websocket ingress. defines a manifest-based routing layer, adapter apis, and cloudflare-compatible edge integration for multiplexing internal ports through a single public endpoint.
 - **[monoprotocol](https://github.com/atechnology-company/monoprotocol)** — normative draft sync protocol: wire format, crypto (hkdf, aes256gcm), replicated object model, journals, capabilities; rust reference crate on crates.io with golden conformance vectors (json/cbor).
