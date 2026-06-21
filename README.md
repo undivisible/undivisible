@@ -65,12 +65,13 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 - **[poke around](https://github.com/undivisible/poke-around)** — lets [poke](https://poke.com) interact with your computer across major oses.
 - **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** — openclaw but <1/100 of the size, with a better ux (subjectively), with speed and with the ability to deploy agent swarms.
 - **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
+- **[arcanbar](https://github.com/undivisible/arcanbar)** - [polybar](https://github.com/polybar/polybar) for the [arcan compositor](https://github.com/letoram/arcan).
 - **[vro](https://github.com/undivisible/vro)** — minimal micro inspired text editor written in v.
 - **[ycyestim](https://github.com/undivisible/YCYEStim)** — ios controller for ycy yokonex gen 1 and 2 electrostimulation hardware over btle (optional user-owned http/websocket bridge); dual-channel waveforms, presets and programs, safety limits, healthkit and watchos heart-rate adaptive output.
 - **[unelaborate (shelved)](https://github.com/undivisible/unelaborate)** — minecraft client in native swiftui with modrinth modpack, shader, and resource pack loading.
 - **[tile (shelved)](https://github.com/semitechnological/tile)** — mosaic-style tiling window manager + canvas + multiplexer for macos.
-- **[tabyrus (wip)](https://github.com/semitechnological/tabyrus)** — ai-powered autocomplete anywhere on your mac. uses [cotabby](https://github.com/fujacob/cotabby) as a reference but uses a rust backend + mlx.
-- **rover (shelved)** — utilities and plugin system for mac, based on raycast + ghostty.
+- **[tabyrus (shelved)](https://github.com/semitechnological/tabyrus)** — ai-powered autocomplete anywhere on your mac. uses [cotabby](https://github.com/fujacob/cotabby) as a reference but uses a rust backend + mlx.
+- **rover** — utilities and plugin system for mac, based on raycast + ghostty.
 
 ## libraries
 
