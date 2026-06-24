@@ -51,7 +51,8 @@ _2023–present_
 **Platforms being built**
 
 - **Ark** — Ultra-simple hosted app platform (Vercel-style ergonomics, Railway-style flexibility): Rust control-plane API, V language CLI (`deploy`, `logs`, `rollback`), Svelte dashboard, YAML app manifests, open-source `ark-protocol` edge ingress spec. _Built with: Rust (Axum), V, Svelte 5, SurrealDB, Docker Compose, Bun._
-- **[Mono](https://github.com/atechnology-company/mono)** — Post-web computing infrastructure with an open-source `mono-protocol` spec: object-centric, identity-addressed encrypted replication; mesh gossip, gateway relay, using `unthinkclaw` agent runtime, mono-browser shell (Crepuscularity/GPUI). _Built with: Rust (`mono-protocol`, `mono-mesh`, `mono-gateway`, `mono-agent`, `mono-browser`)._
+- **Mono** — Designed a distributed identity-addressed replication platform enabling encrypted peer-to-peer data synchronization, agent communication, and persistent session continuity across devices. _Built with: Rust, C++, Crepuscularity._
+- **Cupboard** - Built a local-first device ecosystem enabling seamless LAN-based sync of files, photos, clipboard, browser state, and app sessions across desktop, mobile, and web without accounts or cloud dependencies. _Built with: Rust, Crepuscularity._
 
 ### Systems and Product Architect — Gizzmo Electronics
 
