@@ -32,7 +32,7 @@ _Status_
 - **[Arkie](https://arkie.company)** · **Production** · Centralized MCP/AI backend for all Arkie apps: per-app system prompts, tool sets, chat/stream, calendar booking, Stripe/Calendly/Notion webhooks, Gemini Live voice, embeddings, admin console, OAuth for Claude MCP. _Built with: Rust, Axum, Tokio, Google Gemini, Supabase (PostgREST, Auth, pgvector), Cloudflare Workers/Containers, DigitalOcean SIP edge._
 - **[Pava](https://pava.studio)** · **Closed beta** (approaching release) · AI content strategist and crossposting: brand chat, idea generation, AI-negotiated Stripe pricing, competitor analysis, video review, enterprise/agency workspaces, 13+ platforms via Late API. _Built with: Next.js 16, TypeScript, Supabase, Stripe, Google Gemini, Late API, Tailwind CSS v4, Capacitor, Bun._
 - **[Unthought](https://unthought.arkie.company)** · **Alpha** · Business platforming: custom domain, AI-generated site, professional email, Cloudflare edge deploy, Stripe checkout, Stalwart mail provisioning, Tangent integration hooks. _Built with: Next.js 16, TypeScript, Supabase, Cloudflare (OpenNext, D1, R2, Queues), Arkie, Stripe, Porkbun, Bun._
-- **[Tangent](https://tangent.undivisible.dev)** · **Alpha** · Discord automation for digital product sellers: Stripe payment webhooks, order fulfillment (keys, roles, content), ticketing, purchase-linked profiles, Gemini RAG support and image verification, event-driven workflows, admin dashboard, MCP tools for store ops. _Built with: Go (discordgo), SQLite/Postgres, Google Gemini, Astro 4, Alpine.js, htmx, UnoCSS, Cloudflare Workers (MCP, D1, Durable Objects)._
+- **[Tangent](https://tangent.undivisible.dev)** · **Pre-Alpha** · Discord automation for digital product sellers: Stripe payment webhooks, order fulfillment (keys, roles, content), ticketing, purchase-linked profiles, Gemini RAG support and image verification, event-driven workflows, admin dashboard, MCP tools for store ops. _Built with: Go (discordgo), SQLite/Postgres, Google Gemini, Astro 4, Alpine.js, htmx, UnoCSS, Cloudflare Workers (MCP, D1, Durable Objects)._
 - **Currant** · **Work in progress** · Multi-tenant AI sales agents and job management for trades businesses; autonomous agents across WhatsApp, Telegram, SMS, Instagram, Slack, email, and native SIP/RTP phone; leads → quotes → jobs → invoices. _Built with: Go, Python (FastAPI), Elixir (Phoenix), Rust (telephony), Vlang (filter), SvelteKit, React Native (Expo), Tauri, SurrealDB, Redis, Gemini, Stripe, Square._
 - **Waarom** · **Work in progress** · AI step-by-step in-product guidance: GPUI desktop companion, `@waarom/embed` SDK, Crepuscularity static portal and knowledge base. _Built with: Rust, GPUI, Crepuscularity, Gemini, TypeScript (embed SDK), MV3 web extension runtime._
 
@@ -76,13 +76,14 @@ _late 2024_
 | Languages | Rust, Swift, TypeScript/JavaScript, Python, Go, V, Zig, C, C++, C#, Inauguration                      |
 | Frontend  | React + Native, Next.js, Solid, SvelteKit, Tailwind, SwiftUI, Crepuscularity                          |
 | Systems   | GPUI, Ratatui, MV3 extensions, FFI, UniFFI, Servo, V8, WASM, Linux                                    |
-| AI / Data | OpenAI, MCP, RAG, Transformers.js, local models, Hugging Face, Supabase, PostgreSQL, SQLite, SurrealDB|
+| AI / Data | OpenAI, MCP, RAG, Transformers.js, Hugging Face, Supabase, PostgreSQL, SQLite, SurrealDB              |
 | Infra     | Cloudflare, Docker, GCP, Vercel, Netlify, Railway, GitHub Actions, CI/CD                              |
 
 ## Education
 
 - Certificate III in Information Technology coursework, Box Hill Institute. Completing unfinished units this year.
 - VCE coursework at Eltham High School, including Information Technology, Applied Computing, Politics, Philosophy, Extended Investigation, Linguistics, and Indonesian; left before Year 12 completion to build full time.
+- Various online cybersecurity courses
 
 ## Languages
 
