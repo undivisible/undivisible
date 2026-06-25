@@ -1,7 +1,8 @@
 # hi, i'm max &nbsp;_[undivisible.dev](https://undivisible.dev/) [tsc.hk](https://tsc.hk)_
 
 i make things for people.  
-i build systems, runtimes, interfaces, developer tools, and small pieces of software that feel inevitable since the age of 8. <br><br>
+i build systems, runtimes, interfaces, developer tools, and small pieces of software that feel inevitable since the age of 8. <br>
+12500+ downloads on [crates.io](https://crates.io/users/undivisible)
 
 ***
 
