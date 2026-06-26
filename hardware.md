@@ -170,19 +170,11 @@ other than the rabbit r1 one of the most exciting pieces of tech ive used. the e
 #### logitech g pro 
 *originally for my moms home setup, she doesn't use it*
 
-### mice
-- vxe r1 pro
-- pulsar x2 mini superclear with custom fingertip resin printed shell and alps encoder - the tactility is so satisfying on alps encoders highly recommend
-- g wolves hati s ace wireless
-- logitech g pro wired that was like a rebadged g203
-- logitech g502x hero
-- magic trackpad v2 usbc
-
-### previous hid
+### old keyboards
 #### corsair tkl with speed silvers i think it was called the k75
 *my first keyboard. i was really shocked by how light it actuates and the keycap profile was so aggressive, i still have it somewhere i'm pretty sure*
 
-### logitech g pro keyboard before they moved to mx stems
+#### logitech g pro keyboard before they moved to mx stems
 
 i originally got into custom keyboards because my best friend in high school bought a kbd67lite with box pinks (i still have one that he gave me) and i was like i need *that*. my friend was also really into hamaji neo.
 
@@ -265,6 +257,14 @@ i originally got into custom keyboards because my best friend in high school bou
 #### the macbook keyboard
 *just use it, it's peak and it's still my main keyboard*
 
+### mice
+- vxe r1 pro
+- pulsar x2 mini superclear with custom fingertip resin printed shell and alps encoder - the tactility is so satisfying on alps encoders highly recommend
+- g wolves hati s ace wireless
+- logitech g pro wired that was like a rebadged g203
+- logitech g502x hero
+- magic trackpad v2 usbc
+
 ### audio
 *didn't get too into audio because it's too pretentious and to me it sounds mostly the same, i don't want my audio to sound "accurate" i want it to sound good which is why i have airpods*
 **wired**
@@ -311,10 +311,12 @@ i originally got into custom keyboards because my best friend in high school bou
 
 ### powerbanks
 - anker 25000 powerbank with 2 integrated cables this is the best shit ever
+- gifted ugreen 10000mah magsafe powerbank
+- sold momax 5000mah magsafe powerbank
 - broken momax 3000mah magsafe powerbank
-- lost momax 5000mah magsafe powerbank
 - lost iniu 6000mah magsafe powerbank
 - lost ugreen 5000 uno cabled powerbank
+- im pretty sure there's one other powerbank i lost.
 - idk how i keep doing this
 
 ### other
@@ -332,4 +334,6 @@ i originally got into custom keyboards because my best friend in high school bou
 - 2 moto tags - they aren't airtags
 - anker 65w charger
 - apple 87w charger or something
+- samsung 128gb metal usb stick (like the ones in the teslas) ive had since i got it at jb hi fi when i was like 9 or 10.
+- i lost a sandisk cruze 32gb usb stick i got as a birthday gift.
 - what else even is there to list anymore that's everything
