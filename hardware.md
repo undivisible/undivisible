@@ -24,18 +24,20 @@
 - runs chimera + alpenglow - MY OWN DISTRO IF YOU DIDNT READ THE README DO IT
 
 ### ipad air m4
+i use this for writing and watching content when i can't be fucked putting on the vision pro. also good for small trips if my laptop at home is powered on.
 
 ### apple vision pro m5
+other than the rabbit r1 one of the most exciting pieces of tech ive used. the eyetracking is magic and the passthrough is great. i just wish you could anchor windows to your fov and i wish there was native like laptop connecting and then placing mac windows in a spatial environment. after demoing it i knew i had to get it.
 
-### phones
+## phones
 #### current phones
-- iphone 15 pro max
-- xiaomi redmi note 8 pro joyeuse
-- iphone x
+- iphone 15 pro max - very good phone
+- xiaomi redmi note 8 pro joyeuse - unreasonably slow
+- iphone x 
   - palera1n jailbroken
-- 2x iphone 5c
+- 2x iphone 5c - cool compact phones
   - sl1ver
-- iphone 4
+- iphone 4 - legendary
 
 #### previous phones and laptops
 - samsung s24 ultra yellow - i used to not like samsung, this changed that. i got a good deal off an old lady i think i bought it for 780 like a year after it came out.
@@ -47,15 +49,23 @@
 - samsung s10+ white - one of the most boring phones i ever used, it was alright though, probably the least favourite phone on the list.
 - poco f1 - my first time experimenting with rooting and custom roms. holy anxiety when it didnt boot.
 
+<br>
+
 - iphone 14 pro max black - the sequel to the 12 pro max and apple finally feeling somewhat "fun". i liked this phone and it really cemented me into the apple ecosystem
 - iphone 12 pro max blue (sierra blue? i dont remember names) - genuinely the most reliable phone i ever had and i had a nice alcantara case.
 - iphone xr black - i was waiting forever for a jailbreak for this and it never came but it was nice and reliable.
 - iphone 6 - my first ever smartphone. good times, i jailbroke it and had cool live wallpapers it was vibes.
 
-- rabbit r1 - this was genuinely fun and sparked my love of design even further until i got lost walking in the suburbs and my phone was dead and it gave me the wrong directions to get to where i wanted to go. i would've kept it though it fell out of my bag while i was riding my bike.
+<br>
+
+- rabbit r1 - this was genuinely fun and sparked my love of design and ai even further until i got lost walking in the suburbs and my phone was dead and it gave me the wrong directions to get to where i wanted to go. i would've kept it though it fell out of my bag while i was riding my bike. probably 50% hype but it was one of the most exciting products. i probably give it credit for being the catalyst for me getting into agentic ai as much as i did.
+
+<br>
 
 - ipad air 2
 - ipad 4 - my first ever "device" got when i was 3-4ish, played minecraft and messed around on facebook and downloaded random apps off the app store. i would have a strict time limit set by the timer and like increase the timer by a few minutes when i was a kid to get more time on the device.
+
+<br>
 
 - macbook air m4 - i sideloaded my high school wifi certificates from my surface, this is probably the laptop that *really* made me fall in love with mac
 - macboook m1 pro 16gb - dropped my phone while using it in bed and then turns out it costs more to fix the screen then what i bought it for second hand
@@ -65,8 +75,12 @@
 - alienware m17x r4 - this shit shouldnt be a laptop its NOT PORTABLE DONT LISTEN TO THEM
 - old acer aspire - it was ok but i rathered to use a desktop at that time in my life
 
+<br>
+
 - radxa cubie a5e - i learnt that if a chip isnt very supported by linux, it sucks to work with.
 - orange pi 3b
+
+<br>
 
 - quest 2 - if only i had color passthrough
 - quest 3 - hello color passthrough - i had fun walking around the house with this on, and i learned that the only reason i want a vr (other than to play superhot) is to watch youtube on a bigger screen
