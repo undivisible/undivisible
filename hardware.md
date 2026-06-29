@@ -141,7 +141,7 @@ other than the rabbit r1 one of the most exciting pieces of tech ive used. the e
 - resin printed case
 
 #### random generic 60%
-*i forget i have this keyboard half the time it's sitting in some random draw*
+*i forget i have this keyboard half the time it's sitting in some random drawer*
 - generic bow keycaps
 - random chinese light pom linears
 - alu plate
