@@ -5,7 +5,7 @@ i build systems, runtimes, interfaces, developer tools, and small pieces of soft
 [every single piece of major hardware i've used + stories](https://github.com/undivisible/undivisible/blob/main/hardware.md) <br>
 stories about software + ai coming soon <br>
 <br>
-[![crates.io download history](https://cratesdownloadhistory.undivisible.dev/api/svg/undivisible?theme=dark&date=dmy&crates=1)](https://crates.io/users/undivisible) <br>
+[![crates.io download history](https://cratesdownloadhistory.undivisible.dev/api/svg/undivisible?theme=octocat&date=dmy&crates=1)](https://crates.io/users/undivisible) <br>
 i made this widget! - [github](https://github.com/undivisible/cratesdownloadhistory) [website](https://cratesdownloadhistory.undivisible.dev)
 
 ***
