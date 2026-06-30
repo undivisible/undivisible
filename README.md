@@ -48,6 +48,7 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 ## miniapps
 
 ### web apps
+– **[crates download history](https://cratesdownloadhistory.undivisible.dev/)** - see cumulative download history for a user on [crates.io](https://crates.io) with embeddable svg charts into markdowns and websites.
 - **[standpoint](https://standpoint.undivisible.dev)** — the ultimate opinion based platform for sharing tierlists, voting on polls, and playing spectrum - a party game to guess on a spectrum based on a prompt.
 - **[notes](https://notes.undivisible.dev/)** — minimal note taker with full google font support, code highlighting and editing and notion-style markdown editing.
 - **[bublik](https://bublik.undivisible.dev/)** — canvas tool for generating custom frequency soundscapes.
