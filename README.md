@@ -69,7 +69,7 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 - **[unthinkmail](https://unthinkmail.undivisible.dev/)** — mcp for imap-supported email.
 - **[folk around](https://github.com/undivisible/folk-around)** - lets [folk](https://getfolk.app) or any hermes agent or openclaw interact with your computer p2p on macos.
 - **[poke around](https://github.com/undivisible/poke-around)** — lets [poke](https://poke.com) interact with your computer across major oses.
-- **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** — openclaw + hermes but <1/100 of the size, with a better ux (subjectively), with speed and with the ability to deploy agent swarms.
+- **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** — self learning ai agent that lives on your computer. <1/100 of the size of openclaw, with a better ux (subjectively). can deploy agent swarms and is easily extensible.
 - **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
 - **[arcanbar](https://github.com/undivisible/arcanbar)** - [polybar](https://github.com/polybar/polybar) for the [arcan compositor](https://github.com/letoram/arcan).
 - **[vro](https://github.com/undivisible/vro)** — minimal micro inspired text editor written in v.
