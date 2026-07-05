@@ -18,7 +18,7 @@ crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile
 
 ### subprojects
 
-- **[inauguration](https://github.com/tschk/inauguration)** - an ultra-fast, general-purpose compiler pipeline for multiple languages designed around explicit capability management and deterministic execution graphs. it features a native language (inlang) that supports two synchronized syntaxes—a strict, explicit form ideal for tooling, agents, and deterministic builds, and a lightweight, human-friendly form optimized for readability.
+- **[inauguration](https://inauguration.tsc.hk)** - an ultra-fast, general-purpose compiler pipeline for multiple languages designed around explicit capability management and deterministic execution graphs. it features a native language (inlang) that supports two synchronized syntaxes—a strict, explicit form ideal for tooling, agents, and deterministic builds, and a lightweight, human-friendly form optimized for readability.
 - **[equilibrium](https://github.com/tschk/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/semitechnological/eqswift).
 - **[wax](https://github.com/plyght/wax)** — fast homebrew-compatible package manager in rust. uses homebrew's ecosystem (formulae, bottles, casks) without the ruby/git overhead — compiled, async, parallel installs, lockfiles, and experimental winget/scoop/nix-like support.
 - **[oil](https://github.com/semitechnological/oil)** – fast system package manager in rust for all major *nix systems based on wax with linuxbrew support and interop with existing package managers.
@@ -34,7 +34,7 @@ a custom browser engine built with servo and v8 with in house optimisations.
 ### [alpenglow](https://alpenglow.tsc.hk)
 is my distro of linux based on [chimera](https://chimera-linux.org), [void](https://voidlinux.org), [alpine](https://alpinelinux.org) and [oasis](https://github.com/oasislinux/oasis). the minimal build is smaller than an image taken on a modern day phone, standard is smaller than a 50MP image. boots in under a second and runs completely in RAM. ships with my own custom package manager oil, which has been lightened for this operating system. there is a work in progress desktop environment – [alpenglowed](https://github.com/tschk/alpenglowed) built on top of wayland to render the entire desktop environment in crepuscular gpui.
 
-### [space](https://github.com/tschk/space)
+### [space](https://space.tsc.hk)
 is a work in progress (it boots!) ground-up operating system built on top of inauguration. it focuses on having seperate services as distributed components, with the compiler natively sandboxing based on authority scheduling capabilities permissions etc.
 
 ### other
