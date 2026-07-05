@@ -65,6 +65,9 @@ prev:
 - zorin
 - endeavouros
 - steamos
+- clear linux
+- pop!os
+- fedora silverblue
 
 ## linux ground up
 - alpine
