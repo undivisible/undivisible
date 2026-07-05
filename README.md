@@ -26,13 +26,12 @@ crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile
 ***
 
 ### [soliloquy](https://github.com/tschk/soliloquy)
-
 an experimental operating system model for the web — immutable, browser-native, built on alpenglow + rv8.
 
 ### [rv8](https://github.com/tschk/rv8)
 a custom browser engine built with servo and v8 with in house optimisations.
 
-### [alpenglow](https://github.com/tschk/alpenglow)
+### [alpenglow](https://alpenglow.tsc.hk)
 is my distro of linux based on [chimera](https://chimera-linux.org), [void](https://voidlinux.org), [alpine](https://alpinelinux.org) and [oasis](https://github.com/oasislinux/oasis). the minimal build is smaller than an image taken on a modern day phone, standard is smaller than a 50MP image. boots in under a second and runs completely in RAM. ships with my own custom package manager oil, which has been lightened for this operating system. there is a work in progress desktop environment – [alpenglowed](https://github.com/tschk/alpenglowed) built on top of wayland to render the entire desktop environment in crepuscular gpui.
 
 ### [space](https://github.com/tschk/space)
@@ -57,8 +56,9 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 - **[akh (archived)](https://akh.undivisible.dev)** — islamic uniplatform for when i was previously interested in islam.
 
 ### developer tools
+- **[herdr-gui](https://github.com/undivisible/herdr-gui)** - a gui surface for [herdr](https://herdr.dev) built with crepuscularity and [ghostty](https://ghostty.org/)
 - **[incisor](https://github.com/undivisible/incisor)** - a rust + crepuscularity rewrite of balenaetcher to flash os images to sd cards and usbs
-- **[rs_opencodedesktop (shelved for now, repo private)](https://github.com/semitechnological/rs_opencodedesktop)** - a (wip) rust + crepuscularity rewrite of [opencode desktop](https://github.com/anomalyco/opencode) that actually runs at 120fps.
+- **[rs_opencodedesktop (shelved for now, repo private)](https://github.com/semitechnological/rs_opencodedesktop)** - a (wip) rust + crepuscularity rewrite of [opencode desktop](https://opencode.ai) that actually runs at 120fps.
 - **[bluetooth terminal](https://github.com/undivisible/bluetooth-terminal)** — random bluetooth terminal i made
 
 ### browser extensions
