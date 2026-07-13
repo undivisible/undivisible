@@ -41,7 +41,7 @@ _Status_
 
 - **[AJ Stafford Property Advocates](https://www.ajstafford.com.au)** — Chrome MV3 extension for realestate.com.au: finds comparable listings (bedrooms, ±15% price), on-page results widget, tab groups, CSV/TXT export; Buyer Ready Report print mockups and buyer-ready campaign assets. _Built with: JavaScript, Chrome Extensions MV3, Leaflet, Alpine.js, UnoCSS._
 
-### Founder, Solo Software Engineer
+### Artificer
 
 _2023 – present_
 
