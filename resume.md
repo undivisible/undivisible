@@ -47,7 +47,7 @@ _2023 – present_
 
 - Freelance developer since 2024.
 - Maintain 32+ public GitHub repositories across systems, runtimes, miniapps and developer tools.
-- 23 000+ downloads across Rust crates
+- 24 000+ downloads across Rust crates
 - Primary open-source work includes Crepuscularity, Inauguration, Space and Alpenglow.
 
 **Platforms being built**
