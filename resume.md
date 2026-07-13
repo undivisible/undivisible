@@ -8,7 +8,7 @@ I make things for people. Part-time language learner, part-time philosopher, ful
 
 |           |                                |
 | --------- | ------------------------------ |
-| Email     | max@tsc.hk                    |
+| Email     | max@tsc.hk                     |
 | Phone     | +61 481 729 894                |
 | Instagram | @undivisible.dev               |
 | Twitter   | @makethings4ppl                |
@@ -19,7 +19,7 @@ I make things for people. Part-time language learner, part-time philosopher, ful
 
 ### Technical Cofounder — The Arkie Company, Graft AI
 
-_2026–present_
+_February 2026–July 2026_
 
 - Engineering leadership, product direction, and hands-on delivery across web surfaces, automation, and internal systems.
 - Build custom AI automation systems, product prototypes, client-facing web surfaces, and internal tooling.
@@ -28,35 +28,35 @@ _2026–present_
 
 _Status_
 
-- **[Studio of Optimisations](https://optimisations.studio)** · **[Graft AI](https://graftai.com.au)** · **Production** · **[+61 3 8828 9225](tel:+61388289225)** — Dual-brand sales funnels (same codebase): Arkie-backed chat, live voice, calendar booking, lead capture, Notion connect portal. _Built with: SvelteKit 5, TypeScript, Tailwind CSS v4, Cloudflare Workers, Arkie API proxy, Bun._
-- **[Arkie](https://arkie.company)** · **Production** · Centralized MCP/AI backend for all Arkie apps: per-app system prompts, tool sets, chat/stream, calendar booking, Stripe/Calendly/Notion webhooks, Gemini Live voice, embeddings, admin console, OAuth for Claude MCP. _Built with: Rust, Axum, Tokio, Google Gemini, Supabase (PostgREST, Auth, pgvector), Cloudflare Workers/Containers, DigitalOcean SIP edge._
-- **[Pava](https://pava.studio)** · **Closed beta** (approaching release) · AI content strategist and crossposting: brand chat, idea generation, AI-negotiated Stripe pricing, competitor analysis, video review, enterprise/agency workspaces, 13+ platforms via Late API. _Built with: Next.js 16, TypeScript, Supabase, Stripe, Google Gemini, Late API, Tailwind CSS v4, Capacitor, Bun._
-- **[Unthought](https://unthought.arkie.company)** · **Alpha** · Business platforming: custom domain, AI-generated site, professional email, Cloudflare edge deploy, Stripe checkout, Stalwart mail provisioning (made with my own custom lightened Stalwart crate), Tangent integration hooks. _Built with: Next.js 16, TypeScript, Supabase, Cloudflare (OpenNext, D1, R2, Queues), Arkie, Stripe, Porkbun, Bun._
-- **[Tangent](https://tangent.arkie.company)** · **Pre-Alpha** · Discord automation for digital product sellers: Stripe payment webhooks, order fulfillment (keys, roles, content), ticketing, purchase-linked profiles, Gemini RAG support and image verification, event-driven workflows, admin dashboard, MCP tools for store ops. _Built with: Go (discordgo), SQLite/Postgres, Google Gemini, Astro 4, Alpine.js, htmx, UnoCSS, Cloudflare Workers (MCP, D1, Durable Objects)._
-- **Currant** · **Work in progress** · Multi-tenant AI sales agents and job management for trades businesses; autonomous agents across WhatsApp, Telegram, SMS, Instagram, Slack, email, and native SIP/RTP phone; leads → quotes → jobs → invoices. _Built with: Go, Python (FastAPI), Elixir (Phoenix), Rust (telephony), Vlang (filter), SvelteKit, React Native (Expo), Tauri, SurrealDB, Redis, Gemini, Stripe, Square._
-- **Waarom** · **Work in progress** · AI step-by-step in-product guidance: GPUI desktop companion, `@waarom/embed` SDK, Crepuscularity static portal and knowledge base. _Built with: Rust, GPUI, Crepuscularity, Gemini, TypeScript (embed SDK), MV3 web extension runtime._
+- **Studio of Optimisations** · Dual-brand sales funnels (same codebase): Arkie-backed chat, live voice, calendar booking, lead capture, Notion connect portal. _Built with: SvelteKit 5, TypeScript, Tailwind CSS v4, Cloudflare Workers, Arkie API proxy, Bun._
+- **Arkie** · Centralized MCP/AI backend for all Arkie apps: per-app system prompts, tool sets, chat/stream, calendar booking, Stripe/Calendly/Notion webhooks, Gemini Live voice, embeddings, admin console, OAuth for Claude MCP. _Built with: Rust, Axum, Tokio, Google Gemini, Supabase (PostgREST, Auth, pgvector), Cloudflare Workers/Containers, DigitalOcean SIP edge._
+- **Pava** · AI content strategist and crossposting: brand chat, idea generation, AI-negotiated Stripe pricing, competitor analysis, video review, enterprise/agency workspaces, 13+ platforms via Late API. _Built with: Next.js 16, TypeScript, Supabase, Stripe, Google Gemini, Late API, Tailwind CSS v4, Capacitor, Bun._
+- **Graft Mail** · Built on top of Unthinkmail: Send Emails (singular and bulk to 100000+ recipients) through MCP. _Built with: Qwik, TypeScript, Javascript, Stripe, Cloudflare Workers + Email, Tailwind CSS v4, Bun._
+- **Unthought** · Business platforming: custom domain, AI-generated site, professional email, Cloudflare edge deploy, Stripe checkout, Stalwart mail provisioning (made with my own custom lightened Stalwart crate), Tangent integration hooks. _Built with: Next.js 16, TypeScript, Supabase, Cloudflare (OpenNext, D1, R2, Queues), Arkie, Stripe, Porkbun, Bun._
+- **Tangent** · Discord automation for digital product sellers: Stripe payment webhooks, order fulfillment (keys, roles, content), ticketing, purchase-linked profiles, Gemini RAG support and image verification, event-driven workflows, admin dashboard, MCP tools for store ops. _Built with: Go (discordgo), SQLite/Postgres, Google Gemini, Astro 4, Alpine.js, htmx, UnoCSS, Cloudflare Workers (MCP, D1, Durable Objects)._
+- **Currant** · Multi-tenant AI sales agents and job management for trades businesses; autonomous agents across WhatsApp, Telegram, SMS, Instagram, Slack, email, and native SIP/RTP phone; leads → quotes → jobs → invoices. _Built with: Go, Python (FastAPI), Elixir (Phoenix), Rust (telephony), Vlang (filter), SvelteKit, React Native (Expo), Tauri, SurrealDB, Redis, Gemini, Stripe, Square._
+- **Waarom** · AI step-by-step in-product guidance: GPUI desktop companion, `@waarom/embed` SDK, Crepuscularity static portal and knowledge base. _Built with: Rust, GPUI, Crepuscularity, Gemini, TypeScript (embed SDK), MV3 web extension runtime._
 
 **Client work**
 
 - **[AJ Stafford Property Advocates](https://www.ajstafford.com.au)** — Chrome MV3 extension for realestate.com.au: finds comparable listings (bedrooms, ±15% price), on-page results widget, tab groups, CSV/TXT export; Buyer Ready Report print mockups and buyer-ready campaign assets. _Built with: JavaScript, Chrome Extensions MV3, Leaflet, Alpine.js, UnoCSS._
 
-### Founder, Artificer — The Software Company of Hong Kong
+### Founder, Solo Software Engineer
 
-_2023–present_
+_2023 – present_
 
 - Freelance developer since 2024.
-- Maintain 32+ public GitHub repositories across systems, runtimes, interfaces, developer tools, AI SDKs, and miniapps.
-- Primary open-source work includes Crepuscularity, Aurorality, Wax, Equilibrium, and Soliloquy.
+- Maintain 32+ public GitHub repositories across systems, runtimes, miniapps and developer tools.
+- 23 000+ downloads across Rust crates
+- Primary open-source work includes Crepuscularity, Inauguration, Space and Alpenglow.
 
 **Platforms being built**
 
-- **Ark** — Ultra-simple hosted app platform (Vercel-style ergonomics, Railway-style flexibility): Rust control-plane API, V language CLI (`deploy`, `logs`, `rollback`), Svelte dashboard, YAML app manifests, open-source `ark-protocol` edge ingress spec. _Built with: Rust (Axum), V, Svelte 5, SurrealDB, Docker Compose, Bun._
-- **Mono** — Designed a distributed identity-addressed replication platform enabling encrypted peer-to-peer data synchronization, agent communication, and persistent session continuity across devices. _Built with: Rust, C++, Crepuscularity._
-- **Cupboard** - Built a local-first device ecosystem enabling seamless LAN-based sync of files, photos, clipboard, browser state, and app sessions across desktop, mobile, and web without accounts or cloud dependencies. _Built with: Rust, Crepuscularity._
+- **[Cupboard](https://cupboard.tsc.hk)** - Built a local-first device enabling seamless sync of files, photos, clipboard, browser state, and app sessions across desktop, mobile, and web without accounts or cloud dependencies. _Built with: Alpenglow, Rust, Crepuscularity._
 
 ### Systems and Product Architect — Gizzmo Electronics
 
-_late 2024_
+_2024 - present_
 
 - Created websites and companion apps; inspired direction for hardware products across product surfaces, packaging, manuals, and marketing.
 - Redesigned brand and design in entirety.
