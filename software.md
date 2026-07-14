@@ -2,18 +2,17 @@ everything ive ever used
 
 ### ai:
 - codex
-  - gpt 5.5
+  - gpt 5.6 terra medium ftw
 - pi
-  - composer 2.5 w x premium+ (holy shit i pay for a social media it's over)
-  - deepseek v4 flash w opencode go
-  - deepseek v4 pro
+  - composer 2.5 and grok 4.5 w x premium+ (holy shit i pay for a social media it's over)
+  - deepseek v4 flash + pro w opencode go
   - mimo v2.5 + pro w token plan
-  - poolside laguna m.1 w kilocode and pool
+  - poolside laguna m.1 w kilocode and pool cli
  
 - github copilot student – its genuinely useless though
  
 - poke ultra
-- gemini - ai model selection is depressing
+- antigravity w google ai pro - ai model selection is depressing
 
 - local ai with jan.ai
 
