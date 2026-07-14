@@ -1,9 +1,6 @@
 everything ive ever used
 
 ### ai:
-- devin
-  - sonnet 5
-  - kimi k2.7
 - codex
   - gpt 5.5
 - pi
@@ -16,7 +13,7 @@ everything ive ever used
 - github copilot student – its genuinely useless though
  
 - poke ultra
-- gemini
+- gemini - ai model selection is depressing
 
 - local ai with jan.ai
 
@@ -24,9 +21,10 @@ agent harnesses and the like:
 - dot
 - superconductor
 - pi
-- opencode – idk i just prefer pi to opencode its more stable in my experiece and the gui kinda sucks i hope it gets better soon
+- opencode – idk i just prefer pi to opencode its more stable in my experience and the gui kinda sucks i hope it gets better soon
  
 prev:
+- devin (very good just expensive)
 - gemini cli (why did this always take forever to load)
 - antigravity
 - cursor pro+ (i just moved to supergrok it makes more sense for me since i have other subs and i just use composer)
