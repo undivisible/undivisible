@@ -25,7 +25,7 @@ is my distro of linux. the minimal build is smaller than an image taken on a mod
 ### [space](https://space.tsc.hk)
 is a work in progress (it boots!) ground-up operating system built on top of inauguration. it focuses on having seperate services as distributed components, with the compiler natively sandboxing based on authority scheduling capabilities permissions etc.]
 
-### [rv8](https://github.com/tschk/rv8)
+### [rv8](https://github.com/tschk/rv8) (roverite)
 a custom browser engine built with servo and v8 with in house optimisations.
 
 ### other
