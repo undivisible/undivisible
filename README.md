@@ -33,6 +33,8 @@ a custom browser engine built with servo and v8 with in house optimisations.
 - **[wax](https://github.com/plyght/wax)** — fast homebrew-compatible package manager in rust. uses homebrew's ecosystem (formulae, bottles, casks) without the ruby/git overhead — compiled, async, parallel installs, lockfiles, and experimental winget/scoop/nix-like support.
 - **[oil](https://github.com/semitechnological/oil)** – fast system package manager in rust for all major *nix systems based on wax with linuxbrew support and interop with existing package managers.
 - **atmosphere** — a native sync and ecosystem layer for every device, with local-first and homelab support.
+- **[telekinesis](https://github.com/semitechnological/telekinesis)** — cli + tui host for the rotary agent harness engine. pi-first, codex-second ux with crepuscularity-tui, typed ipc boundary, and oauth login for xai grok + openai chatgpt.
+- **[rx4](https://github.com/tschk/rotary)** (rotary) — general-purpose agent harness engine in rust. owns the loop, tools, providers, sessions, permissions, computer-use, and full pi protocol compatibility. telekinesis is the product surface; rx4 is the engine.
 
 ***
 
