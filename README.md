@@ -23,7 +23,7 @@ an ultra-fast, general-purpose compiler pipeline for multiple languages designed
 is my distro of linux. the minimal build is smaller than an image taken on a modern day phone, standard is smaller than a 50MP image. boots in under a second and runs completely in RAM. ships with my own custom package manager oil, which has been lightened for this operating system. there is a work in progress desktop environment – [alpenglowed](https://github.com/tschk/alpenglowed) built on top of wayland to render the entire desktop environment in crepuscular gpui, and [soliloquy](https://github.com/tschk/soliloquy), an experimental flavor of this os which is immutable, lightened further solely for its browser-native desktop environment based on rv8.
 
 ### [space](https://space.tsc.hk)
-is a work in progress (it boots!) ground-up operating system built on top of inauguration. it focuses on having seperate services as distributed components, with the compiler natively sandboxing based on authority scheduling capabilities permissions etc.]
+is a work in progress (it boots!) ground-up operating system built on top of inauguration. it focuses on having seperate services as distributed components, with the compiler natively sandboxing based on authority scheduling capabilities permissions etc.
 
 ### [rv8](https://github.com/tschk/rv8) (roverite)
 a custom browser engine built with servo and v8 with in house optimisations.
