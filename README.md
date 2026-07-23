@@ -60,7 +60,7 @@ a custom browser engine built with servo and v8 with in house optimisations.
 - **[unthinkmail](https://unthinkmail.undivisible.dev/)** — mcp for imap-supported email.
 - **[folk around](https://github.com/undivisible/folk-around)** - lets [folk](https://getfolk.app) or any hermes agent or openclaw interact with your computer p2p on macos.
 - **[poke around](https://github.com/undivisible/poke-around)** — lets [poke](https://poke.com) interact with your computer across major oses.
-- **[unthinkclaw](https://github.com/undivisible/unthinkclaw)** — self learning ai agent that lives on your computer. <1/100 of the size of openclaw, with a better ux (subjectively). can deploy agent swarms and is easily extensible.
+- **[apollo](https://github.com/tschk/apollo)** — self learning ai agent that lives on your computer. <1/100 of the size of openclaw, with a better ux (subjectively). can deploy agent swarms and is easily extensible.
 - **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
 - **[vro](https://github.com/undivisible/vro)** — minimal micro inspired text editor written in v.
 - **[ycyestim](https://github.com/undivisible/YCYEStim)** — ios controller for ycy yokonex gen 1 and 2 electrostimulation hardware over btle (optional user-owned http/websocket bridge); dual-channel waveforms, presets and programs, safety limits, healthkit and watchos heart-rate adaptive output.
