@@ -16,6 +16,9 @@ i made this widget! - [github](https://github.com/undivisible/cratesdownloadhist
 
 crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile, tuis on ratatui, websites, embedded with a custom framebuffer or lvgl and browser extensions. [aurorality](https://github.com/semitechnological/aurorality) turns web frontends into native swiftui for macos and ios, accepting swift, js/ts, or rust as your backend. with crepuscularity lite and aurorality-js, you can drop into existing sites or electron apps to connect native frontends to js backends.
 
+### [moonshine](https://github.com/tschk/moonshine)
+hyperminimal bun-first ui runtime. signals core, import-what-you-need, host adapters for vite, waku, next, astro, remix, nuxt and more.
+
 ### **[inauguration](https://inauguration.tsc.hk)** 
 an ultra-fast, general-purpose compiler pipeline for multiple languages designed around explicit capability management and deterministic execution graphs. it features a native language (inlang) that supports two synchronized syntaxes—a strict, explicit form ideal for tooling, agents, and deterministic builds, and a lightweight, human-friendly form optimized for readability.
 
@@ -25,15 +28,19 @@ is my distro of linux. the minimal build is smaller than an image taken on a mod
 ### [space](https://space.tsc.hk)
 is a work in progress (it boots!) ground-up operating system built on top of inauguration. it focuses on having seperate services as distributed components, with the compiler natively sandboxing based on authority scheduling capabilities permissions etc.
 
-### [rv8](https://github.com/tschk/rv8) (roverite)
-a custom browser engine built with servo and v8 with in house optimisations.
 
 ### other
+- **[subspace](https://github.com/tschk/subspace)** - statically composed capability-safe embedded realtime operating system.
 - **[equilibrium](https://github.com/tschk/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/semitechnological/eqswift).
-- **[telekinesis](https://github.com/semitechnological/telekinesis)** — minimal extensible cli and gui host for the rotary agent harness engine. built with rotary and crepuscularity. supports pi plugins and oauth + api key. 
+- **[apollo](https://github.com/tschk/apollo)** - local-first rust ai agent runtime. ~14mb binary, 10+ messaging channels, 20+ llm providers, autonomous coding mode, tool guardrails, plugin system.
+- **[telekinesis](https://github.com/semitechnological/telekinesis)** — minimal extensible cli and gui host for the rotary agent harness engine. built with rotary and crepuscularity. supports pi plugins and oauth + api key.
+- **[rv8](https://github.com/tschk/rv8)** (roverite) - a custom browser engine built with servo and v8 with in house optimisations.
 - **[rx4](https://github.com/tschk/rotary)** (rotary) — general-purpose agent harness engine and crate in rust owns the loop, tools, providers, sessions, permissions and computer-use (with rs_peekaboo).
+- **[zkr](https://github.com/tschk/zkr)** - evidence-backed temporal memory engine for personal agents.
+- **[praefectus](https://github.com/tschk/praefectus)** - provider-neutral, verified computer-use execution for rust.
 - **[wax](https://github.com/plyght/wax)** — fast homebrew-compatible package manager in rust. uses homebrew's ecosystem (formulae, bottles, casks) without the ruby/git overhead — compiled, async, parallel installs, lockfiles, and experimental winget/scoop/nix-like support.
 - **[oil](https://github.com/semitechnological/oil)** – fast system package manager in rust for all major *nix systems based on wax with linuxbrew support and interop with existing package managers.
+- **[nexnet](https://github.com/tschk/nexnet)** - local-first peer-to-peer social chat with wallet identity and encrypted messaging.
 - **atmosphere** — a native sync and ecosystem layer for every device, with local-first and homelab support.
 ***
 
@@ -60,7 +67,6 @@ a custom browser engine built with servo and v8 with in house optimisations.
 - **[unthinkmail](https://unthinkmail.undivisible.dev/)** — mcp for imap-supported email.
 - **[folk around](https://github.com/undivisible/folk-around)** - lets [folk](https://getfolk.app) or any hermes agent or openclaw interact with your computer p2p on macos.
 - **[poke around](https://github.com/undivisible/poke-around)** — lets [poke](https://poke.com) interact with your computer across major oses.
-- **[apollo](https://github.com/tschk/apollo)** — self learning ai agent that lives on your computer. <1/100 of the size of openclaw, with a better ux (subjectively). can deploy agent swarms and is easily extensible.
 - **[drift](https://github.com/undivisible/drift-wallpaper)** — macos drift screensaver as a live wallpaper on linux, macos, windows. spotify and apple music now playing support.
 - **[vro](https://github.com/undivisible/vro)** — minimal micro inspired text editor written in v.
 - **[ycyestim](https://github.com/undivisible/YCYEStim)** — ios controller for ycy yokonex gen 1 and 2 electrostimulation hardware over btle (optional user-owned http/websocket bridge); dual-channel waveforms, presets and programs, safety limits, healthkit and watchos heart-rate adaptive output.
@@ -76,8 +82,9 @@ a custom browser engine built with servo and v8 with in house optimisations.
 - **[stalwart lite](https://github.com/arkiecompany/stalwart-lite)** — stalwart fork that runs in-process as a rust crate. imap, smtp, management api — no web admin, no overhead. built for embedding and local-first setups.
 - **[crosspost-rs](https://github.com/arkiecompany/crosspost-rs)** - a rust crossposting library for multiple social media platforms.
 - **[svelte-streamdown](https://sveltestreamdown.undivisible.dev/)** - a svelte version of [vercel's streamdown](https://github.com/vercel/streamdown) for streamable markdown rendering with interactive codeblocks and math rendering.
-- **[flowtoken_flutter](https://github.com/undivisible/flowtoken_flutter)** — flowtoken flutter implementation.
-- **[flowtoken-svelte](https://github.com/undivisible/flowtoken-svelte)** — flowtoken svelte implementation.
+- **[ditherkit_flutter](https://ditherkit-flutter.undivisible.dev/)** - a flutter version of [boring software inc's dither kit](https://tripwire.sh/dither-kit) for data visual representations with dither effects.
+- **[flowtoken_flutter](https://flowtoken-flutter.undivisible.dev/)** — a flutter version of [ephibb's flowtoken](https://github.com/Ephibbs/flowtoken) for clean streaming animations with blur and opacity transitions.
+- **[flowtoken-svelte](https://flowtoken-svelte.undivisible.dev/)** — a svelte version of [ephibb's flowtoken](https://github.com/Ephibbs/flowtoken) for clean streaming animations with blur and opacity transitions.
 - **[tree-sitter-v](https://github.com/undivisible/tree-sitter-v)** - tree sitter parsing and grammars for [v](https://github.com/vlang/v).
 - **[tree-sitter-holyc](https://github.com/undivisible/tree-sitter-holyc)** - tree sitter parsing and grammars for the [holiest programming language on earth](https://github.com/Jamesbarford/holyc-lang).
 - **[ark-protocol](https://github.com/tschk/ark-protocol)** - open protocol and reference implementation for exposing many local vps services behind one standardized https/websocket ingress. defines a manifest-based routing layer, adapter apis, and cloudflare-compatible edge integration for multiplexing internal ports through a single public endpoint.
