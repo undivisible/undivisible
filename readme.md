@@ -85,6 +85,7 @@ a custom browser engine built with servo and v8 with in house optimisations.
 
 ## libraries
 
+- **[moonshine](https://github.com/tschk/moonshine)** — hyperminimal bun-first ui runtime built around a signal-only kernel. add only the compiler, routing, rendering, server and deployment layers you need, then ship to bun, node, cloudflare or vercel. `.crepus` templates are parsed by the crepuscularity rust parser compiled to webassembly and rendered to react or solid, keeping template class tokens so unocss or tailwind styles the output.
 - **[rs_ai](https://github.com/undivisible/rs_ai)** - rust ai sdk for building across cloud and local providers with one async-first api with on-device runtimes through `rs_ai_local` — including gemini nano on android and google chrome (browser prompt api), foundationmodels on macos, and phi silica on windows and microsoft edge (browser prompt api).
 - **[rusty_foundationmodels](https://github.com/undivisible/rusty_foundationmodels)** - safe Rust bindings for Apple's FoundationModels on-device AI (Apple Intelligence).
 - **[rs_poke](https://github.com/undivisible/rs_poke)** - [poke by interaction's](https://poke.com) sdk in rust.
