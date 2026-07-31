@@ -17,7 +17,7 @@ i made this widget! - [github](https://github.com/undivisible/cratesdownloadhist
 crepuscularity builds for: desktop apps (gpui), swiftui & jetpack compose mobile, tuis on ratatui, websites, embedded with a custom framebuffer or lvgl and browser extensions. [aurorality](https://github.com/semitechnological/aurorality) turns web frontends into native swiftui for macos and ios, accepting swift, js/ts, or rust as your backend. with crepuscularity lite and aurorality-js, you can drop into existing sites or electron apps to connect native frontends to js backends.
 
 ### [moonshine](https://github.com/tschk/moonshine)
-hyperminimal bun-first ui runtime. signals core, import-what-you-need, host adapters for vite, waku, next, astro, remix, nuxt and more.
+ground-up Bun-first hybrid web framework with a signal-only kernel and opt-in compiler, routing, rendering, server, and deployment layers.
 
 ### **[inauguration](https://inauguration.tsc.hk)** 
 an ultra-fast, general-purpose compiler pipeline for multiple languages designed around explicit capability management and deterministic execution graphs. it features a native language (inlang) that supports two synchronized syntaxes—a strict, explicit form ideal for tooling, agents, and deterministic builds, and a lightweight, human-friendly form optimized for readability.
