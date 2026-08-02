@@ -2,28 +2,28 @@ everything ive ever used
 
 ### ai:
 - codex
-  - gpt 5.6 terra medium ftw
-- pi
-  - composer 2.5 and grok 4.5 w x premium+ (holy shit i pay for a social media it's over)
-  - deepseek v4 flash + pro w opencode go
+  
+- conductor
+  - gpt 5.6 luna xhigh ftw w codex 20x
+  - fable 5 with claude 20x
+  - grok 4.5 w x premium+ (holy shit i pay for a social media it's over) + cursor 20x + devin
+  - swe1.7 & glm5.2 w devin
+  - deepseek v4 flash + pro w opencode go + clinepass
   - mimo v2.5 + pro w token plan
-  - poolside laguna m.1 w kilocode and pool cli
  
 - github copilot student – its genuinely useless though
  
-- poke ultra
-- antigravity w google ai pro - ai model selection is depressing
-
-- local ai with jan.ai
+- poke pro
+- antigravity w google ai pro - ai model selection is depressing and rate limits suck
 
 agent harnesses and the like:
-- dot
-- superconductor
+- telekinesis
 - pi
 - opencode – idk i just prefer pi to opencode its more stable in my experience and the gui kinda sucks i hope it gets better soon
  
 prev:
-- devin (very good just expensive)
+- plyght/dot
+- superconductor
 - gemini cli (why did this always take forever to load)
 - antigravity
 - cursor pro+ (i just moved to supergrok it makes more sense for me since i have other subs and i just use composer)
