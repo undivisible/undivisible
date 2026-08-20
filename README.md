@@ -32,12 +32,15 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 ### other
 - **[subspace](https://github.com/tschk/subspace)** - statically composed capability-safe embedded realtime operating system.
 - **[equilibrium](https://github.com/tschk/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/semitechnological/eqswift).
+- **[eqswift](https://github.com/tschk/eqswift)** — two lines to ffi rust to swift automagically.
+- **[eqts](https://github.com/tschk/eqts)** — one rust api for typescript across node, bun, deno, and webassembly.
 - **[apollo](https://github.com/tschk/apollo)** - local-first rust ai agent runtime. ~14mb binary, 10+ messaging channels, 20+ llm providers, autonomous coding mode, tool guardrails, plugin system.
 - **[telekinesis](https://github.com/semitechnological/telekinesis)** — minimal extensible cli and gui host for the rotary agent harness engine. built with rotary and crepuscularity. supports pi plugins and oauth + api key.
 - **[rv8](https://github.com/tschk/rv8)** (roverite) - a custom browser engine built with servo and v8 with in house optimisations.
 - **[rx4](https://github.com/tschk/rotary)** (rotary) — general-purpose agent harness engine and crate in rust owns the loop, tools, providers, sessions, permissions and computer-use (with rs_peekaboo).
 - **[zkr](https://github.com/tschk/zkr)** - evidence-backed temporal memory engine for personal agents.
 - **[praefectus](https://github.com/tschk/praefectus)** - provider-neutral, verified computer-use execution for rust.
+- **[darash](https://github.com/tschk/darash)** - provider-neutral async search client + crate for agents.
 - **[wax](https://github.com/plyght/wax)** — fast homebrew-compatible package manager in rust. uses homebrew's ecosystem (formulae, bottles, casks) without the ruby/git overhead — compiled, async, parallel installs, lockfiles, and experimental winget/scoop/nix-like support.
 - **[oil](https://github.com/semitechnological/oil)** – fast system package manager in rust for all major *nix systems based on wax with linuxbrew support and interop with existing package managers.
 - **[nexnet](https://github.com/tschk/nexnet)** - local-first peer-to-peer social chat with wallet identity and encrypted messaging.
