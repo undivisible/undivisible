@@ -31,11 +31,13 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 
 ### other
 - **[subspace](https://github.com/tschk/subspace)** - statically composed capability-safe embedded realtime operating system.
-- **[equilibrium](https://github.com/tschk/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/semitechnological/eqswift).
+- **[equilibrium](https://github.com/tschk/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/tschk/eqswift).
 - **[eqswift](https://github.com/tschk/eqswift)** — two lines to ffi rust to swift automagically.
 - **[eqts](https://github.com/tschk/eqts)** — one rust api for typescript across node, bun, deno, and webassembly.
+- **[rig](https://github.com/tschk/rig)** — cross-language native dependency manager — detects host language, adds libs via cli, exposes them in-process with equilibrium-ffi.
 - **[apollo](https://github.com/tschk/apollo)** - local-first rust ai agent runtime. ~14mb binary, 10+ messaging channels, 20+ llm providers, autonomous coding mode, tool guardrails, plugin system.
-- **[telekinesis](https://github.com/semitechnological/telekinesis)** — minimal extensible cli and gui host for the rotary agent harness engine. built with rotary and crepuscularity. supports pi plugins and oauth + api key.
+- **[telekinesis](https://github.com/tschk/telekinesis)** — ai coding agent cli + tui powered by rotary (rx4) + crepuscularity-tui. [telekinesis.tsc.hk](https://telekinesis.tsc.hk).
+- **[fx](https://github.com/tschk/fx)** — unix-like coding agent — a fork.
 - **[rv8](https://github.com/tschk/rv8)** (roverite) - a custom browser engine built with servo and v8 with in house optimisations.
 - **[rx4](https://github.com/tschk/rotary)** (rotary) — general-purpose agent harness engine and crate in rust owns the loop, tools, providers, sessions, permissions and computer-use (with rs_peekaboo).
 - **[zkr](https://github.com/tschk/zkr)** - evidence-backed temporal memory engine for personal agents.
