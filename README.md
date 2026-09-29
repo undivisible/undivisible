@@ -37,7 +37,6 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 - **[rig](https://github.com/tschk/rig)** — cross-language native dependency manager — detects host language, adds libs via cli, exposes them in-process with equilibrium-ffi.
 - **[apollo](https://github.com/tschk/apollo)** - local-first rust ai agent runtime. ~14mb binary, 10+ messaging channels, 20+ llm providers, autonomous coding mode, tool guardrails, plugin system.
 - **[telekinesis](https://github.com/tschk/telekinesis)** — ai coding agent cli + tui powered by rotary (rx4) + crepuscularity-tui. [telekinesis.tsc.hk](https://telekinesis.tsc.hk).
-- **[fx](https://github.com/tschk/fx)** — unix-like coding agent — a fork.
 - **[rv8](https://github.com/tschk/rv8)** (roverite) - a custom browser engine built with servo and v8 with in house optimisations.
 - **[rx4](https://github.com/tschk/rotary)** (rotary) — general-purpose agent harness engine and crate in rust owns the loop, tools, providers, sessions, permissions and computer-use (with rs_peekaboo).
 - **[zkr](https://github.com/tschk/zkr)** - evidence-backed temporal memory engine for personal agents.
