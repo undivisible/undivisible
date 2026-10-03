@@ -31,7 +31,8 @@ other than the rabbit r1 one of the most exciting pieces of tech ive used. the e
 
 ## phones
 #### current phones
-- iphone 15 pro max - very good phone
+- iphone 15 pro max - very good phone but post ios 26 it sucks
+- samsung s26 ultra 512gb graphite or whatever its called - very stable, very customisable, very smooth and nice build quality
 - xiaomi redmi note 8 pro joyeuse - unreasonably slow
 - iphone x 
   - palera1n jailbroken
@@ -40,6 +41,7 @@ other than the rabbit r1 one of the most exciting pieces of tech ive used. the e
 - iphone 4 - legendary
 
 #### previous phones and laptops
+- pixel 10 pro 128gb black - was really nice but gave it to my dad in favor of a phone on a contract
 - samsung s24 ultra yellow - i used to not like samsung, this changed that. i got a good deal off an old lady i think i bought it for 780 like a year after it came out.
 - oneplus 11 jupiter rock edition - anxiety installing global roms, spent months recovering it after a failed global rom flash because my dumb ass manually flashed it via fastboot for each partition. i reverse engineered oppo's flasher, patching the package validation, and restoring the original calibration partitions. probably the most satisfying phone repair i've ever done and i beat the phone repair shop because they didn't know how to fix it. but it was a cool phone i got it for 350 aud from zhuanzhuan.
 - oppo find x3 pro mirror - genuinely a good phone and the microscope feature was so cool but i unfortunately associate it with bad vibes because it was because i dropped my xiaomi and the screen and display was fucked.
