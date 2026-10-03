@@ -6,7 +6,7 @@
 - m5 pro
 - 48gb ram
 - 1tb ssd
-- space black (the best color)
+- space black (the best color) - edit: holy shit it scratches 
 
 ### tower
 *there's not really a story to this one*
