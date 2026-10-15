@@ -8,6 +8,16 @@ stories about software + ai coming soon <br>
 [![crates.io download history](https://cratesdownloadhistory.undivisible.dev/api/svg/undivisible?theme=octocat&date=dmy&crates=1)](https://crates.io/users/undivisible) <br>
 i made this widget! - [github](https://github.com/undivisible/cratesdownloadhistory) [website](https://cratesdownloadhistory.undivisible.dev)
 
+<p align="left">
+ <a href="https://www.star-history.com/undivisible">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?user=undivisible&year=2026&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?user=undivisible&year=2026" />
+   <img alt="Top Committer" src="https://api.star-history.com/badge?user=undivisible&year=2026" />
+  </picture>
+ </a>
+</p>
+
 ***
 
 ## [crepuscularity](https://crepuscularity.undivisible.dev) · [aurorality](https://github.com/tschk/aurorality)
