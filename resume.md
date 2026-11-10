@@ -54,7 +54,7 @@ _October 2024 - present_
 - **[B1](https://gizzmoelectronics.com/b1)** — Boost controller (precision boost control, 2D mapping, real-time display, engine protection); retail box packaging and brand-aligned print artwork for pre-launch SKU, recreated as an online version with [instructions](https://gizzmoelectronics.com/b1/instructions).
 - **F1** — Unreleased product; full retail packaging design to match Gizzmo brand system (not yet public).
 
-### Artificer — The Software Company of Hong Kong
+### Artificer — Software Corporation (Hong Kong)
 
 _January 2023 - present_
 
