@@ -10,10 +10,10 @@ I build software, from compilers and operating systems to web and desktop apps. 
 | --------- | ------------------------------ |
 | Email     | max@tsc.hk                     |
 | Phone     | +61 481 729 894                |
-| LinkedIn  | linkedin.com/in/ihatemaxcarter |
+| LinkedIn  | https://www.linkedin.com/in/ihatemaxcarter/ |
 | GitHub    | github.com/undivisible         |
 | Location  | Kuala Lumpur, Malaysia         |
-| Instagram | @undivisible.dev               |
+| Instagram | https://www.instagram.com/ihatemaxcarter/ |
 | Twitter   | @ihatemaxcarter                |
 
 ## Experience
