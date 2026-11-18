@@ -60,7 +60,7 @@ _January 2023 - present_
 
 - Independent software development and open-source work across systems, applications and developer tools.
 - Published 88 Rust crates with 110,783 combined downloads on crates.io as of 12 October 2026.
-- Building Cupboard and the tschk projects, including cross-platform application tooling, language interoperability, AI runtimes, compilers and operating systems.
+- Building Cupboard and the softwarecorporation projects, including cross-platform application tooling, language interoperability, AI runtimes, compilers and operating systems.
 
 **Platforms being built**
 

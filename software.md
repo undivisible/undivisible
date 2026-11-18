@@ -84,7 +84,7 @@ prev:
 ## bliss os - android on pc is interesting, it's also kinda useless, no disrespect to the maintainers it's cool.
 
 ## fuchsia - originally soliloquy was meant to be on this, but its not worth it, dahliaos is an example why its just horrendous to maintain
-that "new kernel" idea kinda has now spiritually moved onto albeit very differently in [space](https://github.com/tschk/space)
+that "new kernel" idea kinda has now spiritually moved onto albeit very differently in [space](https://github.com/softwarecorporation/space)
 
 ## macos
 - high sierra

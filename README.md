@@ -20,7 +20,7 @@ i made this widget! - [github](https://github.com/undivisible/cratesdownloadhist
 
 ***
 
-## [crepuscularity](https://crepuscularity.undivisible.dev) · [aurorality](https://github.com/tschk/aurorality)
+## [crepuscularity](https://crepuscularity.undivisible.dev) · [aurorality](https://github.com/softwarecorporation/aurorality)
 
 > a framework for building cross-platform applications from a single web-based codebase — solely by writing react + tailwindcss and a js/ts or rust backend.
 
@@ -33,28 +33,28 @@ ground-up Bun-first hybrid web framework with a signal-only kernel and opt-in co
 an ultra-fast, general-purpose compiler pipeline for multiple languages designed around explicit capability management and deterministic execution graphs. it features a native language (inlang) that supports two synchronized syntaxes—a strict, explicit form ideal for tooling, agents, and deterministic builds, and a lightweight, human-friendly form optimized for readability.
 
 ### [alpenglow](https://alpenglow.tsc.hk)
-is my distro of linux. the minimal build is smaller than an image taken on a modern day phone, standard is smaller than a 50MP image. boots in under a second and runs completely in RAM. ships with my own custom package manager oil, which has been lightened for this operating system. there is a work in progress desktop environment – [alpenglowed](https://github.com/tschk/alpenglowed) built on top of wayland to render the entire desktop environment in crepuscular gpui, and [soliloquy](https://github.com/tschk/soliloquy), an experimental flavor of this os which is immutable, lightened further solely for its browser-native desktop environment based on rv8.
+is my distro of linux. the minimal build is smaller than an image taken on a modern day phone, standard is smaller than a 50MP image. boots in under a second and runs completely in RAM. ships with my own custom package manager oil, which has been lightened for this operating system. there is a work in progress desktop environment – [alpenglowed](https://github.com/softwarecorporation/alpenglowed) built on top of wayland to render the entire desktop environment in crepuscular gpui, and [soliloquy](https://github.com/softwarecorporation/soliloquy), an experimental flavor of this os which is immutable, lightened further solely for its browser-native desktop environment based on rv8.
 
 ### [space](https://space.tsc.hk)
 is a work in progress (it boots!) ground-up operating system built on top of inauguration. it focuses on having seperate services as distributed components, with the compiler natively sandboxing based on authority scheduling capabilities permissions etc.
 
 
 ### other
-- **[subspace](https://github.com/tschk/subspace)** - statically composed capability-safe embedded realtime operating system.
-- **[equilibrium](https://github.com/tschk/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/tschk/eqswift).
-- **[eqswift](https://github.com/tschk/eqswift)** — two lines to ffi rust to swift automagically.
-- **[eqts](https://github.com/tschk/eqts)** — one rust api for typescript across node, bun, deno, and webassembly.
-- **[rig](https://github.com/tschk/rig)** — cross-language native dependency manager — detects host language, adds libs via cli, exposes them in-process with equilibrium-ffi.
-- **[apollo](https://github.com/tschk/apollo)** - local-first rust ai agent runtime. ~14mb binary, 10+ messaging channels, 20+ llm providers, autonomous coding mode, tool guardrails, plugin system.
-- **[telekinesis](https://github.com/tschk/telekinesis)** — ai coding agent cli + tui powered by rotary (rx4) + crepuscularity-tui. [telekinesis.tsc.hk](https://telekinesis.tsc.hk).
-- **[rv8](https://github.com/tschk/rv8)** (roverite) - a custom browser engine built with servo and v8 with in house optimisations.
-- **[rx4](https://github.com/tschk/rotary)** (rotary) — general-purpose agent harness engine and crate in rust owns the loop, tools, providers, sessions, permissions and computer-use (with rs_peekaboo).
-- **[zkr](https://github.com/tschk/zkr)** - evidence-backed temporal memory engine for personal agents.
-- **[praefectus](https://github.com/tschk/praefectus)** - provider-neutral, verified computer-use execution for rust.
-- **[darash](https://github.com/tschk/darash)** - provider-neutral async search client + crate for agents.
+- **[subspace](https://github.com/softwarecorporation/subspace)** - statically composed capability-safe embedded realtime operating system.
+- **[equilibrium](https://github.com/softwarecorporation/equilibrium)** — load c-compatible code into rust with one call. auto-detects sources, compiles, exposes as rust modules. `load()` is the primary path. for rust → swift, see [eqswift](https://github.com/softwarecorporation/eqswift).
+- **[eqswift](https://github.com/softwarecorporation/eqswift)** — two lines to ffi rust to swift automagically.
+- **[eqts](https://github.com/softwarecorporation/eqts)** — one rust api for typescript across node, bun, deno, and webassembly.
+- **[rig](https://github.com/softwarecorporation/rig)** — cross-language native dependency manager — detects host language, adds libs via cli, exposes them in-process with equilibrium-ffi.
+- **[apollo](https://github.com/softwarecorporation/apollo)** - local-first rust ai agent runtime. ~14mb binary, 10+ messaging channels, 20+ llm providers, autonomous coding mode, tool guardrails, plugin system.
+- **[telekinesis](https://github.com/softwarecorporation/telekinesis)** — ai coding agent cli + tui powered by rotary (rx4) + crepuscularity-tui. [telekinesis.tsc.hk](https://telekinesis.tsc.hk).
+- **[rv8](https://github.com/softwarecorporation/rv8)** (roverite) - a custom browser engine built with servo and v8 with in house optimisations.
+- **[rx4](https://github.com/softwarecorporation/rotary)** (rotary) — general-purpose agent harness engine and crate in rust owns the loop, tools, providers, sessions, permissions and computer-use (with rs_peekaboo).
+- **[zkr](https://github.com/softwarecorporation/zkr)** - evidence-backed temporal memory engine for personal agents.
+- **[praefectus](https://github.com/softwarecorporation/praefectus)** - provider-neutral, verified computer-use execution for rust.
+- **[darash](https://github.com/softwarecorporation/darash)** - provider-neutral async search client + crate for agents.
 - **[wax](https://github.com/plyght/wax)** — fast homebrew-compatible package manager in rust. uses homebrew's ecosystem (formulae, bottles, casks) without the ruby/git overhead — compiled, async, parallel installs, lockfiles, and experimental winget/scoop/nix-like support.
 - **[oil](https://github.com/semitechnological/oil)** – fast system package manager in rust for all major *nix systems based on wax with linuxbrew support and interop with existing package managers.
-- **[nexnet](https://github.com/tschk/nexnet)** - local-first peer-to-peer social chat with wallet identity and encrypted messaging.
+- **[nexnet](https://github.com/softwarecorporation/nexnet)** - local-first peer-to-peer social chat with wallet identity and encrypted messaging.
 - **atmosphere** — a native sync and ecosystem layer for every device, with local-first and homelab support.
 ***
 
@@ -75,8 +75,8 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 - **[incisor](https://github.com/undivisible/incisor)** - a rust + crepuscularity rewrite of balenaetcher to flash os images to sd cards and usbs
 
 ### browser extensions
-- **[rs_vimium](https://github.com/undivisible/rs_vimium)** — a rust rewrite of the [vimium](https://github.com/philc/vimium) browser extension built with the [crepuscularity webextension framework](https://github.com/tschk/crepuscularity).
-- **[anywhere](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags, also built with the [crepuscularity webextension framework](https://github.com/tschk/crepuscularity).
+- **[rs_vimium](https://github.com/undivisible/rs_vimium)** — a rust rewrite of the [vimium](https://github.com/philc/vimium) browser extension built with the [crepuscularity webextension framework](https://github.com/softwarecorporation/crepuscularity).
+- **[anywhere](https://github.com/undivisible/anywhere)** — browser extension that turns ai chat responses into interactive interfaces. renders widgets, panels, forms, charts inside chat via custom response tags, also built with the [crepuscularity webextension framework](https://github.com/softwarecorporation/crepuscularity).
 
 ### mobile & desktop
 - **[folk around](https://github.com/undivisible/folk-around)** - lets [folk](https://getfolk.app) or any hermes agent or openclaw interact with your computer p2p on macos.
@@ -103,7 +103,7 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 - **[flowtoken-swift](https://github.com/undivisible/flowtoken-swift/)** — a swiftui version of [ephibb's flowtoken](https://github.com/Ephibbs/flowtoken) for clean streaming animations with blur and opacity transitions.
 - **[tree-sitter-v](https://github.com/undivisible/tree-sitter-v)** - tree sitter parsing and grammars for [v](https://github.com/vlang/v).
 - **[tree-sitter-holyc](https://github.com/undivisible/tree-sitter-holyc)** - tree sitter parsing and grammars for the [holiest programming language on earth](https://github.com/Jamesbarford/holyc-lang).
-- **[ark-protocol](https://github.com/tschk/ark-protocol)** - open protocol and reference implementation for exposing many local vps services behind one standardized https/websocket ingress. defines a manifest-based routing layer, adapter apis, and cloudflare-compatible edge integration for multiplexing internal ports through a single public endpoint.
+- **[ark-protocol](https://github.com/arkiecompany/ark-protocol)** - open protocol and reference implementation for exposing many local vps services behind one standardized https/websocket ingress. defines a manifest-based routing layer, adapter apis, and cloudflare-compatible edge integration for multiplexing internal ports through a single public endpoint.
 - **[monoprotocol](https://github.com/atechnology-company/monoprotocol)** — normative draft sync protocol: wire format, crypto (hkdf, aes256gcm), replicated object model, journals, capabilities; rust reference crate on crates.io with golden conformance vectors (json/cbor).
 
 and yes im scared of uppercase letters
