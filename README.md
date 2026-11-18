@@ -58,12 +58,6 @@ is a work in progress (it boots!) ground-up operating system built on top of ina
 - **atmosphere** — a native sync and ecosystem layer for every device, with local-first and homelab support.
 - **[lyceus](https://github.com/softwarecorporation/lyceus)** — experimental research into adaptive, growing model families, including native language models, memory and text diffusion experiments.
 - **[roundhouse](https://github.com/softwarecorporation/roundhouse)** — always-on agentic operations built on rotary, with health checks, permission-gated tools and independent recovery verification.
-- **[sdkkit](https://github.com/softwarecorporation/sdkkit)** — define one sdk contract and generate typed contracts for rust, python and typescript. service implementations and http clients are not generated yet.
-- **[mono](https://github.com/atechnology-company/mono)** — object-centric encrypted replication for browsers and devices, with portable identity, capability-based access and cross-device continuity.
-- **[ark](https://github.com/atechnology-company/ark)** — hosted app platform prototype with a rust control plane, v cli, svelte dashboard and declarative app manifests.
-- **[arkie](https://github.com/arkiecompany/arkie)** — shared ai backend and mcp server for atechnology apps, with per-app tools, prompts and conversation history.
-- **[cupboard](https://github.com/atechnology-company/cupboard)** — headless home hub for lan-first sync of files, photos, clipboard history and app handoff, with native companion apps.
-- **[tofu](https://github.com/atechnology-company/tofu)** — an imessage-first personal agent foundation with a paired rust host, task daemon and approval-gated computer use. not an unattended deployed assistant.
 - **[alpenglow rescue](https://github.com/undivisible/alpenglow-rescue)** — experimental rescue image based on pinned alpenglow, with reproducible virtual-machine storage, network and console checks; hardware repair workflows remain incomplete.
 ***
 
